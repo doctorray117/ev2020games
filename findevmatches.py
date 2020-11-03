@@ -14,6 +14,20 @@ source = sourcefile.read().splitlines()
 dictionaryfile = open(args.dictionary,'r')
 dictionary = dictionaryfile.read().splitlines()
 
+## set the point value array by modified fibbonachi sequence
+def getpoints(length):
+  count = 1
+  points = []
+  n1, n2 = 0, 1
+  while count <= (length):
+    points.append(n1)
+    if (count % 2) == 0:
+      nth = n1 + n2
+      n1 = n2
+      n2 = nth
+    count += 1
+  return sum(points)
+
 def anagram(sourceword, dictionaryword):
   sourcearray = tuple(sourceword);
   dictarray = list(dictionaryword);
@@ -44,4 +58,4 @@ for i in range(0,len(results)):
 ## now print all items that match this length
 for i in range(0,len(results)):
   if len(results[i][1]) == maxlength:
-    print (results[i])
+    print (str(results[i]) + " " + str(getpoints(len(results[i][1]))) + " points")
