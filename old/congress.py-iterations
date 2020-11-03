@@ -1,0 +1,50 @@
+#!/usr/bin/python3
+
+## Take a name from the source list, load all letters into an array, iterate every option, show all matches in destination list
+
+import random, argparse, logging, sys, itertools, scipy
+sysrand = random.SystemRandom()
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+parser = argparse.ArgumentParser(description='Anagram solver starting point...')
+parser.add_argument("--sourceword", "-s", type=str, help="Source word")
+parser.add_argument("--dictionary", "-d", type=str, help="Dictionary file")
+args = parser.parse_args()
+
+sourceword = args.sourceword
+dictionaryfile = open(args.dictionary,'r')
+dictionary = dictionaryfile.read().splitlines()
+
+## turn source work into character array
+sourcearray = tuple(sourceword);
+
+## eliminate items from dictionary longer than source word
+shortdictionary = [x for x in dictionary if len(x)>len(sourcearray)]
+
+## eliminate items from dictionary that do not contain any of the source elements at all
+tempdictionary = []
+for s in sourcearray:
+  tempdictionary += [x for x in shortdictionary if s not in x]
+shorterdictionary = list(dict.fromkeys(tempdictionary))
+
+## count iterations
+iterations=0
+i=0
+while i <= len(sourcearray):
+  iterations += scipy.math.factorial(len(sourcearray)) / scipy.math.factorial(len(sourcearray) - i)
+  i += 1
+
+## count candidates
+candidates = len(shorterdictionary)
+
+print("Source: " + sourceword)
+print("Iterations: " + str(iterations))
+print("Candidates: " + str(candidates))
+print("Matches:")
+
+## find the matches
+for L in range(1, len(sourcearray)+1):
+  for subset in itertools.permutations(sourcearray, L):
+    permutation = ''.join(subset)
+    if permutation in dictionary :
+      print (permutation)
