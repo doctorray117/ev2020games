@@ -1,0 +1,3342 @@
+Chondrosarcoma
+Ewing's sarcoma
+Malignant fibrous histiocytoma of bone/osteosarcoma
+Osteosarcoma
+Rhabdomyosarcoma
+Heart cancer
+Astrocytoma
+Brainstem glioma
+Pilocytic astrocytoma
+Ependymoma
+Primitive neuroectodermal tumor
+Cerebellar astrocytoma
+Cerebral astrocytoma
+Glioblastoma
+Glioma
+Medulloblastoma
+Neuroblastoma
+Oligodendroglioma
+Pineal astrocytoma
+Pituitary adenoma
+Visual pathway and hypothalamic glioma
+Breast cancer
+Invasive lobular carcinoma
+Tubular carcinoma
+Invasive cribriform carcinoma
+Medullary carcinoma
+Male breast cancer
+Phyllodes tumor
+Inflammatory Breast Cancer
+Adrenocortical carcinoma
+Islet cell carcinoma 
+Multiple endocrine neoplasia syndrome
+Parathyroid cancer
+Pheochromocytoma
+Thyroid cancer
+Merkel cell carcinoma
+Uveal melanoma
+Retinoblastoma
+Anal cancer
+Appendix cancer
+cholangiocarcinoma
+Carcinoid tumor, gastrointestinal
+Colon cancer
+Extrahepatic bile duct cancer
+Gallbladder cancer
+Gastric  cancer
+Gastrointestinal carcinoid tumor
+Gastrointestinal stromal tumor 
+Hepatocellular cancer
+Pancreatic cancer, islet cell
+Rectal cancer
+Bladder cancer
+Cervical cancer
+Endometrial cancer
+Extragonadal germ cell tumor
+Ovarian cancer
+Ovarian epithelial cancer 
+Ovarian germ cell tumor
+Penile cancer
+Renal cell carcinoma
+Renal pelvis and ureter, transitional cell cancer
+Prostate cancer
+Testicular cancer
+Gestational trophoblastic tumor
+Ureter and renal pelvis, transitional cell cancer
+Urethral cancer
+Uterine sarcoma
+Vaginal cancer
+Vulvar cancer
+Wilms tumor
+Esophageal cancer
+Head and neck cancer
+Nasopharyngeal carcinoma
+Oral cancer
+Oropharyngeal cancer
+Paranasal sinus and nasal cavity cancer
+Pharyngeal cancer
+Salivary gland cancer
+Hypopharyngeal cancer
+Acute biphenotypic leukemia
+Acute eosinophilic leukemia
+Acute lymphoblastic leukemia
+Acute myeloid leukemia
+Acute myeloid dendritic cell leukemia
+AIDS-related lymphoma
+Anaplastic large cell lymphoma
+Angioimmunoblastic T-cell lymphoma
+B-cell prolymphocytic leukemia
+Burkitt's lymphoma
+Chronic lymphocytic leukemia
+Chronic myelogenous leukemia
+Cutaneous T-cell lymphoma
+Diffuse large B-cell lymphoma
+Follicular lymphoma
+Hairy cell leukemia
+Hepatosplenic T-cell lymphoma
+Hodgkin's lymphoma
+Hairy cell leukemia
+Intravascular large B-cell lymphoma
+Large granular lymphocytic leukemia
+Lymphoplasmacytic lymphoma
+Lymphomatoid granulomatosis
+Mantle cell lymphoma
+Marginal zone B-cell lymphoma
+Mast cell leukemia
+Mediastinal large B cell lymphoma
+Multiple myeloma/plasma cell neoplasm
+Myelodysplastic syndromes
+Mucosa-associated lymphoid tissue lymphoma
+Mycosis fungoides
+Nodal marginal zone B cell lymphoma
+Non-Hodgkin lymphoma
+Precursor B lymphoblastic leukemia
+Primary central nervous system lymphoma
+Primary cutaneous follicular lymphoma
+Primary cutaneous immunocytoma
+Primary effusion lymphoma
+Plasmablastic lymphoma
+Sézary syndrome
+Splenic marginal zone lymphoma
+T-cell prolymphocytic leukemia
+Basal cell carcinoma
+Squamous cell carcinoma
+Skin adnexal tumors 
+Melanoma
+Merkel cell carcinoma
+Sarcomas of primary cutaneous origin 
+Lymphomas of primary cutaneous origin 
+Bronchial adenomas/carcinoids
+Small cell lung cancer
+Mesothelioma
+Non-small cell lung cancer
+Pleuropulmonary blastoma
+Laryngeal cancer
+Thymoma and thymic carcinoma
+AIDS-related cancers
+Kaposi sarcoma
+Epithelioid hemangioendothelioma 
+Desmoplastic small round cell tumor
+Liposarcoma
+Acne aestivalis [nb 1][nb 2][nb 3]
+Acne conglobata
+Acne cosmetica 
+Acne fulminans 
+Acne keloidalis nuchae 
+Adult forehead with scattered red pimples
+Acne vulgaris
+Acne mechanica
+Acne medicamentosa
+Acne miliaris necrotica 
+Acne vulgaris 
+Acne with facial edema [nb 4]
+Blepharophyma
+Erythrotelangiectatic rosacea 
+Excoriated acne [nb 5]
+Glandular rosacea
+Gnathophyma
+Gram-negative rosacea
+Granulomatous facial dermatitis
+Adult male with a large, red, bulbous nose
+Rhinophyma
+Granulomatous perioral dermatitis
+Halogen acne
+Hidradenitis suppurativa 
+Idiopathic facial aseptic granuloma
+Infantile acne
+Lupoid rosacea 
+Lupus miliaris disseminatus faciei
+Metophyma
+Neonatal acne 
+Occupational acne
+Oil acne
+Ocular rosacea 
+Otophyma
+Periorificial dermatitis
+Persistent edema of rosacea 
+Phymatous rosacea
+Pomade acne
+Papulopustular rosacea 
+Perifolliculitis capitis abscedens et suffodiens 
+Perioral dermatitis
+Periorbital dermatitis 
+Pyoderma faciale 
+Rhinophyma
+Rosacea 
+Rosacea conglobata
+Synovitis–acne–pustulosis–hyperostosis–osteomyelitis syndrome [nb 6]
+Steroid rosacea
+Tar acne
+Tropical acne
+Blau syndrome
+Multiple reddish-brown papules coalescing over the right arm of a boy
+Blau syndrome
+Chronic infantile neurologic cutaneous and articular syndrome
+Familial cold urticaria 
+Familial Mediterranean fever
+Hyper-IgD syndrome[nb 7]
+Majeed syndrome
+Muckle–Wells syndrome
+TNF receptor associated periodic syndrome
+Adult linear IgA disease
+Bullous pemphigoid
+Bullous lupus erythematosus
+Childhood linear IgA disease 
+Cicatricial pemphigoid 
+Dermatitis herpetiformis 
+Endemic pemphigus 
+Epidermolysis bullosa acquisita
+Grover's disease 
+Adult chest and abdomen with many red skin lesions
+Grover's disease
+IgA pemphigus
+Intraepidermal neutrophilic IgA dermatosis
+Localized cicatricial pemphigoid 
+Paraneoplastic pemphigus
+Pemphigus erythematosus 
+Pemphigus foliaceus
+Pemphigus herpetiformis 
+Pemphigoid nodularis
+Pemphigus vegetans
+Pemphigus vegetans of Hallopeau
+Pemphigus vegetans of Neumann
+Pemphigus vulgaris
+Vesicular pemphigoid
+Vulvar childhood pemphigoid
+Acatalasia 
+Acquired dyskeratotic leukoplakia
+Actinic cheilitis 
+Acute necrotizing ulcerative gingivitis 
+Allergic contact cheilitis
+Adult tongue with a strikingly black top
+Black hairy tongue
+Angina bullosa haemorrhagica
+Angular cheilitis 
+Behçet's disease 
+Black hairy tongue 
+Caviar tongue
+Cheilitis exfoliativa
+Cheilitis glandularis
+Cheilitis granulomatosa 
+Cutaneous sinus of dental origin 
+Cyclic neutropenia
+Desquamative gingivitis
+Drug-induced ulcer of the lip
+Epidermization of the lip
+Epulis
+Epulis fissuratum 
+Eruptive lingual papillitis
+Erythroplakia 
+Fissured tongue 
+Geographic tongue 
+Gingival fibroma
+Gingival hypertrophy
+Hairy leukoplakia 
+Intraoral dental sinus
+Linea alba
+Leukoplakia
+Leukoplakia with tylosis and esophageal carcinoma
+Major aphthous ulcer 
+Median rhomboid glossitis 
+Melanocytic oral lesion
+Melkersson–Rosenthal syndrome
+Morsicatio buccarum 
+Mucosal squamous cell carcinoma
+Mucous cyst of the oral mucosa 
+Nagayama's spots
+Oral Crohn's disease
+Oral florid papillomatosis
+Oral melanosis
+Osseous choristoma of the tongue
+Peripheral ameloblastoma
+Plasma cell cheilitis 
+Plasmoacanthoma
+Proliferative verrucous leukoplakia
+Pyogenic granuloma 
+A solitary papule of inflamed vascular granulation tissue on the index finger of an adult
+Pyogenic granuloma
+Pyostomatitis vegetans
+Recurrent aphthous stomatitis 
+Recurrent intraoral herpes simplex infection
+Smooth tongue 
+Stomatitis nicotina 
+Torus palatinus
+Trumpeter's wart
+Vestibular papillomatosis
+White sponge nevus
+Acne necrotica
+Acquired generalized hypertrichosis 
+Acquired perforating dermatosis 
+Acrokeratosis paraneoplastica of Bazex 
+Acroosteolysis
+Acute paronychia
+Circular coin-sized bare patch on the back of a person's scalp
+Alopecia areata
+Alopecia areata
+Alopecia neoplastica
+Anagen effluvium
+Androgenic alopecia 
+Anhidrosis 
+Anonychia
+Apparent leukonychia
+Beau's lines
+Blue nails
+Bromidrosis 
+Bubble hair deformity
+Central centrifugal cicatricial alopecia 
+Chevron nail 
+Chromhidrosis 
+Chronic paronychia
+Cicatricial alopecia
+Clubbing 
+Congenital onychodysplasia of the index fingers
+Disseminate and recurrent infundibulofolliculitis
+Erosive pustular dermatitis of the scalp 
+Erythromelanosis follicularis faciei et colli
+Folliculitis decalvans
+Folliculitis nares perforans
+Fox–Fordyce disease
+Frontal fibrosing alopecia
+Generalized congenital hypertrichosis 
+Generalized hyperhidrosis
+Graham-Little syndrome
+Granulosis rubra nasi
+Big toe with most of the toenail missing; only the nail's root is present
+Nail–patella syndrome
+Green nails
+Gustatory hyperhidrosis
+Hair casts 
+Hair follicle nevus 
+Hairy palms and soles
+Half and half nails 
+Hangnail
+Hapalonychia
+Hematidrosis
+Hirsutism
+Hook nail
+Hot comb alopecia
+Hypertrichosis cubiti 
+Hypertrichosis simplex of the scalp
+Intermittent hair–follicle dystrophy
+Keratosis pilaris atrophicans
+Kinking hair 
+Koenen's tumor 
+Koilonychia 
+Kyrle disease
+Leukonychia 
+Lichen planopilaris 
+Lichen planus of the nails
+Lichen spinulosus 
+Lipedematous alopecia 
+Localized acquired hypertrichosis
+Localized congenital hypertrichosis
+Longitudinal erythronychia
+Longitudinal melanonychia
+Loose anagen syndrome 
+Lupus erythematosus
+Madarosis
+Malalignment of the nail plate
+Male-pattern baldness
+Marie–Unna hereditary hypotrichosis 
+Median nail dystrophy 
+Mees' lines
+Melanonychia
+Menkes kinky hair syndrome 
+Monilethrix 
+Muehrcke's nails 
+Multiple, dystrophic, irregular, shortened fingernails
+Onychotillomania
+Nail–patella syndrome 
+Neoplasms of the nailbed
+Nevoid hypertrichosis
+Noncicatricial alopecia
+Onychauxis
+Onychoatrophy
+Onychocryptosis 
+Onychogryphosis 
+Onycholysis
+Onychomadesis
+Onychomatricoma
+Onychophagia 
+Onychophosis
+Onychoptosis defluvium 
+Onychorrhexis 
+Onychoschizia
+Onychotillomania
+Ophiasis
+Palmoplantar hyperhidrosis 
+Parakeratosis pustulosa
+Patterned acquired hypertrichosis
+Perforating folliculitis
+Pili annulati 
+Pili bifurcati
+Pili multigemini
+Pili pseudoannulati 
+Pili torti 
+Pincer nails 
+Pityriasis amiantacea 
+Platonychia
+Plica neuropathica 
+Plummer's nail
+Premature greying of hair
+Prepubertal hypertrichosis
+Pressure alopecia 
+Pseudofolliculitis barbae 
+Pseudopelade of Brocq 
+Psoriatic nails
+Pterygium inversum unguis 
+Pterygium unguis 
+Purpura of the nail bed
+Racquet nail 
+Recurrent palmoplantar hidradenitis 
+Red lunulae
+Ross' syndrome
+Rubinstein–Taybi syndrome
+Setleis syndrome
+Shell nail syndrome
+Short anagen syndrome
+Splinter hemorrhage
+Small, linear, blue-black areas of discoloration beneath the nail plate of an adult finger
+Splinter hemorrhage
+Spotted lunulae
+Staining of the nail plate
+Stippled nails
+Subungual hematoma
+Telogen effluvium
+Terry's nails
+Traction alopecia
+Traumatic alopecia
+Traumatic anserine folliculosis
+Triangular alopecia 
+Trichomegaly
+Trichomycosis axillaris
+Trichorrhexis invaginata 
+Trichorrhexis nodosa
+Trichostasis spinulosa
+Tufted folliculitis
+Tumor alopecia
+Twenty-nail dystrophy 
+Uncombable hair syndrome 
+Wooly hair nevus 
+X-linked hypertrichosis
+Acquired generalized lipodystrophy 
+Adiposis dolorosa 
+Alpha-1 antitrypsin deficiency panniculitis 
+Atrophic connective tissue panniculitis
+Barraquer–Simons syndrome 
+Benign symmetric lipomatosis 
+Centrifugal abdominal lipodystrophy 
+Chronic erythema nodosum 
+Dark area of skin, reminiscent of a bruise, on the inner ankle of an adult
+Chronic erythema nodosum
+Cold panniculitis 
+Congenital generalized lipodystrophy 
+Cytophagic histiocytic panniculitis
+Drug-induced lipodystrophy
+Factitial panniculitis
+Familial partial lipodystrophy 
+Gouty panniculitis
+Hemihyperplasia–multiple lipomatosis syndrome
+HIV-associated lipodystrophy[nb 8]
+Involutional lipoatrophy
+Lipoatrophia annularis 
+Lipoatrophia semicircularis 
+Lipodermatosclerosis 
+Lipohypertrophy
+Localized lipodystrophy
+Neutrophilic lobular panniculitis
+Nodular vasculitis
+Non-progressive late-onset linear hemifacial lipoatrophy
+Pancreatic panniculitis 
+Poland's syndrome
+Post-steroid panniculitis
+Sclerema neonatorum
+Sclerosing lipogranuloma 
+Septal panniculitis
+Subcutaneous fat necrosis of the newborn
+Traumatic panniculitis
+Tumor lysis syndrome
+Weber–Christian disease
+Accessory nail of the fifth toe
+Accessory tragus 
+Amniotic band syndrome 
+Aplasia cutis congenita 
+Arteriovenous fistula
+Benign neonatal hemangiomatosis
+Branchial cyst 
+Bronchogenic cyst
+Capillary hemangioma 
+Cavernous venous malformation
+Congenital cartilaginous rest of the neck 
+Congenital erosive and vesicular dermatosis
+Congenital hypertrophy of the lateral fold of the hallux
+Congenital lip pit 
+Congenital malformations of the dermatoglyphs
+Congenital smooth muscle hamartoma
+Cystic lymphatic malformation
+Dermoid cyst
+Diffuse neonatal hemangiomatosis
+Encephalocele
+Focal facial dermal dysplasia
+Hutchinson's teeth
+Hyperkeratotic cutaneous capillary-venous malformation
+Intrauterine epidermal necrosis
+Limb–mammary syndrome
+Lowry–MacLean syndrome
+Macrocheilia
+Macrocystic lymphatic malformation
+Malignant pilomatricoma 
+Maternal autoimmune bullous disease
+Median raphe cyst
+Melanotic neuroectodermal tumor of infancy
+Membranous aplasia cutis
+Microcystic lymphatic malformation
+Midline cervical cleft
+Mongolian spot 
+Several light blue patches of skin distributed over a child's lower back and buttock
+Mongolian spot
+Mulberry molar
+Nager acrofacial dysostosis
+Nasal glioma 
+Nasolacrimal duct cyst
+Nevus psiloliparus
+Non-involuting congenital hemangioma
+Omphalomesenteric duct cyst 
+PELVIS syndrome
+Pilomatricoma 
+Poland anomaly
+Posterior fossa malformations–hemangiomas–arterial anomalies–cardiac defects–eye abnormalities–sternal cleft and supraumbilical raphe syndrome 
+Preauricular sinus and cyst 
+Rapidly involuting congenital hemangioma 
+Rosenthal–Kloepfer syndrome
+Rudimentary supernumerary digit 
+SACRAL syndrome
+Sinus pericranii
+Skin dimple 
+Superficial lymphatic malformation 
+Supernumerary nipple 
+Thyroglossal duct cyst
+Verrucous vascular malformation
+Acute cutaneous lupus erythematosus
+Atrophoderma of Pasini and Pierini 
+Calcinosis–Raynaud phenomenon–esophageal dysmotility–sclerodactyly–telangiectasia syndrome 
+Chilblain lupus erythematosus 
+Childhood dermatomyositis
+Childhood discoid lupus erythematosus
+Childhood systemic lupus erythematosus
+A young girl with facial palsy, complete ptosis, and marked atrophy of subcutaneous and bony structures on the left upper side of the face
+Frontal linear scleroderma
+Complement deficiency syndromes
+Dermatomyositis
+Ehlers–Danlos syndrome
+Eosinophilia–myalgia syndrome
+Frontal linear scleroderma 
+Generalized discoid lupus erythematosus
+Generalized morphea
+Interstitial granulomatous dermatitis
+Juvenile rheumatoid arthritis 
+Keloid morphea
+Linear atrophoderma of Moulin 
+Linear scleroderma
+Localized discoid lupus erythematosus
+Localized morphea
+Lupus erythematosus panniculitis 
+Lupus erythematosus–lichen planus overlap syndrome 
+Methotrexate-induced papular eruption
+Mixed connective tissue disease 
+Morphea profunda
+Morphea–lichen sclerosus et atrophicus overlap
+Mouth and genital ulcers with inflamed cartilage syndrome 
+Neonatal lupus erythematosus
+Nephrogenic systemic fibrosis 
+Nicolau–Balus syndrome
+The lower back of an adult with thickened, indurated patches of skin
+Localized morphea
+Nodulosis–arthropathy–osteolysis syndrome
+Normophosphatemic familial tumoral calcinosis
+Palisaded neutrophilic and granulomatous dermatitis
+Pansclerotic morphea
+Parry–Romberg syndrome 
+Progressive systemic sclerosis
+Relapsing polychondritis 
+Rheumatoid arthritis
+Rheumatoid nodulosis 
+Rheumatoid vasculitis
+Rowell's syndrome
+Scleredema adultorum 
+Silicosis
+Sjögren's syndrome 
+Subacute cutaneous lupus erythematosus
+Systemic lupus erythematosus
+Toxic oil syndrome
+Tumid lupus erythematosus 
+Tuzun syndrome
+Verrucous lupus erythematosus 
+Winchester syndrome
+Acrodermatitis chronica atrophicans 
+Actinic elastosis 
+Anetoderma 
+Blepharochalasis
+Cutis laxa 
+Cutis rhomboidalis nuchae
+Ehlers–Danlos syndrome 
+Elastosis perforans serpiginosa
+Homocystinuria
+Jadassohn–Pellizzari anetoderma
+Linear focal elastosis 
+Loeys–Dietz syndrome
+Marfan syndrome
+Occipital horn syndrome
+Osteogenesis imperfecta 
+Perforating calcific elastosis 
+Pseudoxanthoma elasticum 
+Reactive perforating collagenosis
+Schweninger–Buzzi anetoderma
+Sclerotic fibroma
+Striae atrophicans
+Striae distensae
+Ullrich disease
+Verrucous perforating collagenoma
+Wrinkly skin syndrome
+Acquired progressive lymphangioma 
+Acral arteriolar ectasia
+Acral fibrokeratoma 
+Acrochordon 
+Adenoma sebaceum
+Adult type of generalized eruption of cutaneous mastocytosis
+African cutaneous Kaposi sarcoma
+Multiple, small, blue to red papules on the scrotum
+Angiokeratoma of Fordyce
+African lymphadenopathic Kaposi sarcoma
+Aggressive infantile fibromatosis
+AIDS-associated Kaposi sarcoma
+Ainhum 
+Angiofibroma
+Angiokeratoma
+Angiokeratoma of Fordyce 
+Angiokeratoma of Mibelli 
+Angioleiomyoma 
+Angiolipoleiomyoma
+Angiolipoma
+Angioma serpiginosum
+Angiosarcoma
+Aponeurotic fibroma 
+Atypical fibroxanthoma
+Benign lipoblastomatosis 
+Buschke–Ollendorff syndrome 
+Capillary aneurysms
+Carcinoid
+Cherry angioma 
+Chondrodermatitis nodularis chronica helicis 
+Solitary, pink, dome-shaped papule on the superior helix of an adult
+Chondrodermatitis nodularis chronica helicis
+Chondroid lipoma
+Chordoma
+Classic Kaposi sarcoma
+Collagenous fibroma 
+Composite hemangioendothelioma
+Connective tissue nevus 
+Cutaneous endometriosis
+Cutaneous meningioma 
+Cutaneous myelofibrosis
+Cutaneous myxoma
+Cutis marmorata telangiectatica congenita 
+Dermal dendrocyte hamartoma
+Dermatofibroma 
+Dermatofibrosarcoma protuberans
+Desmoid tumor
+Diffuse cutaneous mastocytosis
+Diffuse infantile fibromatosis
+Dupuytren's contracture 
+Eccrine angiomatous hamartoma
+Elastofibroma dorsi
+Endovascular papillary angioendothelioma 
+Epithelioid cell histiocytoma
+Epithelioid hemangioendothelioma
+Epithelioid sarcoma
+Erythrodermic mastocytosis
+Extraskeletal chondroma 
+Familial myxovascular fibromas
+Fascial hernia
+Fibroma of tendon sheath
+Fibromatosis colli 
+Fibrous hamartoma of infancy
+Fibrous papule of the nose 
+Folded skin with scarring 
+Fordyce's spot 
+Ganglion cyst
+Ganglioneuroma
+Genital leiomyoma 
+Giant cell fibroblastoma
+Giant cell tumor of the tendon sheath 
+Glomeruloid hemangioma
+Small, raised, skin-colored lesions
+Fordyce's spot
+Glomus tumor 
+Granular cell tumor 
+Hamartoma
+Hemangiopericytoma
+Hemangiosarcoma
+Hibernoma 
+Hypertrophic scar
+Immunosuppression-associated Kaposi sarcoma
+Infantile digital fibromatosis 
+Infantile hemangiopericytoma 
+Infantile myofibromatosis 
+Infantile systemic hyalinosis 
+Intradermal spindle cell lipoma
+Intravascular papillary endothelial hyperplasia 
+Juvenile hyaline fibromatosis 
+Kaposiform hemangioendothelioma 
+Kasabach–Merritt syndrome 
+Keloid 
+Excessive scar tissue along an adult jawline
+Keloid
+Keratinizing metaplasia
+Keratocyst
+Klippel–Trenaunay syndrome 
+Knuckle pads 
+Leiomyosarcoma
+Lipoma
+Liposarcoma 
+Lymphangiectasis 
+Lymphangiomatosis
+Malignant fibrous histiocytoma
+Malignant peripheral nerve sheath tumor 
+Mast cell sarcoma
+Meningocele
+Metastatic carcinoma
+Microvenular hemangioma 
+Midline nevus flammeus 
+Multifocal lymphangioendotheliomatosis 
+Multinucleate cell angiohistocytoma
+Multiple cutaneous and uterine leiomyomatosis syndrome 
+Multiple cutaneous leiomyoma 
+Neural fibrolipoma
+Neuroblastoma 
+Neuroma cutis
+Neurothekeoma 
+Nevus flammeus 
+Nevus flammeus nuchae 
+Nevus lipomatosus superficialis 
+Nevus oligemicus
+A small blue- to purple-colored lesion on the lower lip of an adult
+Venous lake
+Nodular fasciitis 
+Oral submucous fibrosis
+Pachydermodactyly
+Palisaded encapsulated neuroma
+Paraneoplastic syndrome
+Pearly penile papules 
+Peyronie's disease 
+Phakomatosis pigmentovascularis
+Piloleiomyoma
+Plantar fibromatosis 
+Pleomorphic fibroma
+Pleomorphic lipoma
+Plexiform fibrohistiocytic tumor
+Porokeratotic eccrine ostial and dermal duct nevus
+Progressive nodular histiocytoma
+Proliferating angioendotheliomatosis
+Prominent inferior labial artery
+Pseudo-ainhum
+Retiform hemangioendothelioma 
+Schwannoma 
+Solitary angiokeratoma
+Solitary cutaneous leiomyoma
+Solitary mastocytoma
+Multiple tan patches scattered over the back of a young child
+Urticaria pigmentosa
+Solitary neurofibroma 
+Spider angioma 
+Spindle cell hemangioendothelioma 
+Spindle cell lipoma
+Sternal cleft
+Subungual exostosis
+Superficial acral fibromyxoma
+Systemic mastocytosis
+Targetoid hemosiderotic hemangioma 
+Telangiectasia
+Telangiectasia macularis eruptiva perstans
+Teratoma
+Tufted angioma 
+Umbilical granuloma
+Universal angiomatosis 
+Urticaria pigmentosa 
+Venous lake 
+Wildervanck syndrome
+Xanthelasmoidal mastocytosis
+Zosteriform metastasis
+Childhood granulomatous periorificial dermatitis
+Essential dermatitis
+Atopic dermatitis
+Abietic acid dermatitis
+Acid-induced
+Acrylic monomer dermatitis
+Adhesive dermatitis
+African blackwood dermatitis
+Airbag dermatitis 
+Alkali-induced
+Allergic
+Antifungal agent-induced
+Antimicrobial agent-induced
+Arsenic dermatitis
+Artificial nail-induced
+Axillary antiperspirant-induced
+Axillary deodorant-induced
+Baboon syndrome
+Black dermatographism
+Bleaching cream-induced
+Capsaisin-induced
+Chemical burn
+Red erosions, some with crusting, all on the back of an adult hand
+Chemical burn
+Chloracne
+Chrome dermatitis
+Clothing-induced
+Cobalt dermatitis
+Contact stomatitis 
+Contact urticaria
+Corticosteroid-induced
+Cosmetic dermatitis
+Cosmetic intolerance syndrome
+Dentifrice-induced
+Dermatitis from metals and metal salts
+Dust-induced
+Epoxy resin dermatitis
+Ethylenediamine-induced
+Eye makeup-induced
+Fiberglass dermatitis
+Flower-induced
+Formaldehyde-induced
+Formaldehyde-releasing agent-induced
+Fragrance-induced
+Gold dermatitis
+Hair bleach-induced
+Hair dye-induced
+Hair lotion-induced
+Hair spray-induced
+Hair straightener-induced
+Hair tonic-induced
+Houseplant-induced
+Hydrocarbon-induced
+Irritant folliculitis
+Lacquer dermatitis 
+Lanolin-induced
+Lipstick-induced
+Local anesthetic-induced
+Makassar ebony dermatitis
+Marine plant-induced
+Mechanical irritant dermatitis
+Mercury dermatitis
+Mouthwash-induced
+Nail lacquer-induced
+Nail polish remover-induced
+Nickel dermatitis
+Occupation-induced
+p-Chloro-meta-xylenol-induced
+Paraben-induced
+Paraphenylenediamine dermatitis
+Permanent wave preparation-induced
+Phenothiazine drug-induced
+Photoallergic
+Photoirritant
+Plant derivative-induced
+Pollen-induced
+Polyester resin dermatitis
+Propylene glycol-induced
+Blisters distributed over an adult forearm
+Toxicodendron dermatitis
+Protein contact dermatitis
+Quaternium-15 hypersensitivity
+Reed dermatitis
+Rosewood dermatitis
+Rosin dermatitis
+Rubber dermatitis
+Seed-induced
+Shoe dermatitis
+Solvent-induced
+Sorbic acid-induced
+Subjective irritant contact dermatitis 
+Sunscreen-induced
+Systemic contact dermatitis
+Tear gas dermatitis
+Textile dermatitis
+Traumatic irritant contact dermatitis
+Tree-associated plant-induced
+Tree-induced
+Tulip fingers
+Urshiol-induced
+Vegetable-induced
+Autoimmune estrogen dermatitis
+Autoimmune progesterone dermatitis
+Autosensitization dermatitis
+Breast eczema 
+Chronic vesiculobullous hand eczema
+Circumostomy eczema
+Dyshidrosis 
+Ear eczema
+Eyelid dermatitis
+Hand eczema
+Hyperkeratotic hand dermatitis
+Id reaction 
+Irritant diaper dermatitis 
+Juvenile plantar dermatosis 
+Molluscum dermatitis
+Nummular dermatitis 
+Nutritional deficiency eczema
+Sulzberger–Garbe syndrome 
+Xerotic eczema 
+Eosinophilic pustular folliculitis 
+Reactive arthritis
+Subcorneal pustular dermatosis 
+Infantile seborrheic dermatitis
+Leiner's disease
+Pityriasis simplex capillitii 
+Seborrheic dermatitis 
+Albinism–black lock–cell migration disorder of the neurocytes of the gut–deafness syndrome 
+Albinism–deafness syndrome 
+Alezzandrini syndrome
+Argyria
+Arsenic poisoning
+Depigmented patches on the posterior hand and fingers
+Vitiligo
+Berlin syndrome
+Canthaxanthin
+Chédiak–Higashi syndrome
+Chrysiasis
+Cross–McKusick–Breen syndrome 
+Dermatopathia pigmentosa reticularis 
+Dyschromatosis symmetrica hereditaria 
+Dyschromatosis universalis hereditaria
+Elejalde syndrome 
+Familial progressive hyperpigmentation
+Galli–Galli disease
+Griscelli syndrome type 2 
+Griscelli syndrome type 3
+Hemochromatosis 
+Hemosiderin hyperpigmentation
+Hermansky–Pudlak syndrome
+Idiopathic guttate hypomelanosis 
+Iron metallic discoloration
+Klein–Waardenburg syndrome
+Lead poisoning
+Leukoderma
+Melanoma-associated leukoderma
+Melasma 
+Mukamel syndrome
+Necklace of Venus
+Nevus anemicus
+Multiple, hypopigmented macules and patches on the leg of an adult
+Nevus anemicus
+Nevus depigmentosus 
+Ocular albinism
+Oculocutaneous albinism
+Pallister–Killian syndrome
+Periorbital hyperpigmentation
+Photoleukomelanodermatitis of Kobori
+Phylloid hypomelanosis
+Piebaldism
+Pigmentatio reticularis faciei et colli
+Pityriasis alba
+Poikiloderma of Civatte
+Poikiloderma vasculare atrophicans
+Postinflammatory hyperpigmentation 
+Postinflammatory hypopigmentation
+Progressive macular hypomelanosis
+Quadrichrome vitiligo
+Reticular pigmented anomaly of the flexures 
+Reticulate acropigmentation of Kitamura
+Revesz syndrome
+Riehl melanosis
+Scratch dermatitis 
+Segmental vitiligo
+Shah–Waardenburg syndrome
+Shiitake mushroom dermatitis 
+Tar melanosis 
+Tietz syndrome
+Titanium metallic discoloration
+Transient neonatal pustular melanosis 
+Trichrome vitiligo
+Vagabond's leukomelanoderma
+Vasospastic macule
+Vitiligo
+Vitiligo ponctué
+Vogt–Koyanagi–Harada syndrome
+Waardenburg syndrome
+Wende–Bauckus syndrome 
+Woronoff's ring
+X-linked reticulate pigmentary disorder 
+Yemenite deaf-blind hypopigmentation syndrome
+Acrodynia 
+Acute generalized exanthematous pustulosis 
+Multiple small subcorneal pustules on erythematous patches
+Acute generalized exanthematous pustulosis
+Adverse reaction to biologic agents
+Adverse reaction to cytokines
+Allopurinol hypersensitivity syndrome
+Anticoagulant-induced skin necrosis
+Anticonvulsant hypersensitivity syndrome
+Bromoderma
+Bullous drug reaction 
+Chemotherapy-induced acral erythema 
+Chemotherapy-induced hyperpigmentation
+Drug-induced acne
+Drug-induced angioedema
+Drug-related gingival hyperplasia
+Drug-induced lichenoid reaction 
+Drug-induced lupus erythematosus
+Drug-induced nail changes
+Drug-induced pigmentation
+Drug-induced pseudolymphoma
+Drug-induced urticaria
+Erythema multiforme major 
+Exudative hyponychial dermatitis
+Fixed drug reaction
+Halogenoderma
+Heparin necrosis
+HIV disease-related drug reaction
+Hydroxyurea dermopathy
+Injection site reaction
+Iododerma
+Leukotriene receptor antagonist-associated Churg–Strauss syndrome
+Linear IgA bullous dermatosis 
+Photosensitive drug reaction
+Red man syndrome
+Severe cutaneous adverse reactions 
+Scleroderma-like reaction to taxanes
+Serum sickness-like reaction
+Steroid acne
+Steroid folliculitis
+Stevens–Johnson syndrome
+Sulfonamide hypersensitivity syndrome
+Texier's disease
+Toxic epidermal necrolysis 
+Urticarial erythema multiforme
+Vitamin K reaction
+Warfarin necrosis
+Acanthosis nigricans associated with malignancy 
+Acanthosis nigricans associated with obesity, insulin-resistant states, and endocrinopathy 
+Acral acanthosis nigricans 
+Blackened necrosis of multiple toes on an adult foot
+Acral dry gangrene
+Acral dry gangrene
+Acromegaly
+Addison's disease
+Adrenal adenoma
+Adrenal carcinoma
+Adrenal hyperplasia
+Alopecia–nail dystrophy–ophthalmic complications–thyroid dysfunction–hypohidrosis–ephelides and enteropathy–respiratory tract infections syndrome 
+Arrhenoblastoma
+Cretinism
+Cushing's syndrome
+Hyperpigmented plaque with velvety textural change within the axillary fold of an adult
+Acanthosis nigricans associated with obesity, insulin-resistant states, and endocrinopathy
+Excess ovarian androgen release syndrome 
+Familial acanthosis nigricans 
+Growth hormone deficiency
+Hyperandrogenism–insulin resistance–acanthosis nigricans syndrome 
+Hyperparathyroidism
+Hyperprolactinemic SAHA syndrome
+Hyperthyroidism
+Hypoparathyroidism
+Hypothyroidism
+Leydig cell tumor
+Multiple endocrine neoplasia type 1 
+Multiple endocrine neoplasia type 2 
+Multiple endocrine neoplasia type 3 
+Myxedema
+Panhypopituitarism
+Persistent adrenarche syndrome 
+Polycystic ovarian syndrome
+Seborrhoea–acne–hirsutism–alopecia 
+Thyroid acropachy
+Angiolymphoid hyperplasia with eosinophilia 
+Annular erythema of infancy
+Arthropod assault
+Eosinophilic cellulitis 
+Eosinophilic fasciitis 
+Eosinophilic granuloma
+Eosinophilic granulomatosis with polyangiitis
+Eosinophilic pustular folliculitis of infancy 
+Eosinophilic ulcer of the oral mucosa 
+Solitary, large, white to yellow erosion on the inner lower lip of a child
+Eosinophilic ulcer of the oral mucosa
+Eosinophilic vasculitis
+Erythema toxicum neonatorum 
+Granuloma faciale
+Hypereosinophilia
+Hypereosinophilic syndrome
+Incontinentia pigmenti 
+Itchy red bump disease 
+Juvenile xanthogranuloma
+Kimura's disease
+Nodules–eosinophilia–rheumatism–dermatitis–swelling syndrome
+Pachydermatous eosinophilic dermatitis
+Papular eruption of blacks
+Papuloerythroderma of Ofuji
+Pruritic papular eruption of HIV disease
+Aberrant basal cell carcinoma
+Acanthoma fissuratum 
+Acrospiroma 
+Actinic keratosis 
+Adenoid squamous cell carcinoma 
+Aggressive digital papillary adenocarcinoma 
+Solitary, pink, pearly appearing skin lesion on the side of an adult nose
+Basal cell carcinoma
+Apocrine gland carcinoma
+Apocrine nevus
+Arsenical keratosis
+Atrophic actinic keratosis
+Balanitis plasmacellularis 
+Basal cell carcinoma
+Basaloid follicular hamartoma
+Basaloid squamous cell carcinoma
+Birt–Hogg–Dubé syndrome
+Bowen's disease 
+Brooke–Fordyce syndrome
+Ceruminoma
+Cicatricial basal cell carcinoma 
+Ciliated cyst of the vulva 
+Clear cell acanthoma 
+Clear cell squamous cell carcinoma 
+Chronic scar keratosis 
+Clonal seborrheic keratosis
+Common seborrheic keratosis 
+Cowden syndrome 
+Cutaneous ciliated cyst
+Cutaneous columnar cyst
+Cutaneous horn 
+Cystic basal cell carcinoma
+Dermal eccrine cylindroma 
+Dermatosis papulosa nigra
+Desmoplastic trichoepithelioma
+Dilated pore 
+Two coalescing, red, scaly patches on the dorsal surface of an adult finger
+Bowen's disease
+Eccrine carcinoma 
+Eccrine nevus
+Epidermal cyst 
+Epidermal nevus syndrome 
+Epidermolytic acanthoma
+Epithelioma cuniculatum 
+Eruptive vellus hair cyst
+Erythroplasia of Queyrat
+Extramammary Paget's disease
+Fibroepithelioma
+Fibroepithelioma of Pinkus
+Fibrofolliculoma
+Follicular hybrid cyst 
+Folliculosebaceous-apocrine hamartoma 
+Folliculosebaceous cystic hamartoma
+Generalized eruptive keratoacanthoma 
+Giant solitary trichoepithelioma
+Hidradenoma
+Large, red, exophytic nodule on the malar surface of an adult
+Hidradenoma
+Hidradenocarcinoma
+Hidrocystoma 
+Hydrocarbon keratosis 
+Hyperkeratosis lenticularis perstans 
+Hyperkeratosis of the nipple and areola
+Hyperkeratotic actinic keratosis
+Ichthyosis hystrix 
+Ichthyosis hystrix of Curth–Macklin
+Infiltrative basal cell carcinoma
+Inflammatory linear verrucous epidermal nevus
+Inverted follicular keratosis
+Irritated seborrheic keratosis 
+Isthmicoma 
+Juvenile myelomonocytic leukemia
+Keratin implantation cyst
+Keratoacanthoma
+Keratoacanthoma centrifugum marginatum
+Large cell acanthoma
+Lichenoid actinic keratosis
+Lichenoid keratosis 
+Linear verrucous epidermal nevus 
+Malignant acrospiroma 
+Malignant mixed tumor 
+Malignant trichilemmal cyst
+Mantleoma
+Marjolin's ulcer
+Melanoacanthoma 
+Merkel cell carcinoma 
+Microcystic adnexal carcinoma 
+Micronodular basal cell carcinoma
+Milia en plaque
+Milium
+Close-up view of an adult eyelid on which there are numerous small, elevated skin lesions filled with white material
+Milium
+Mixed tumor 
+Mucinous carcinoma
+Mucinous nevus 
+Muir–Torre syndrome
+Multiple familial trichoepithelioma 
+Multiple keratoacanthomas 
+Multiple minute digitate hyperkeratosis 
+Nevoid basal cell carcinoma syndrome 
+Nevus comedonicus 
+Nevus comedonicus syndrome
+Nevus sebaceous 
+Nevus unius lateris
+Nodular basal cell carcinoma 
+Paget's disease of the breast
+Papillary eccrine adenoma 
+Papillary hidradenoma 
+Papillomatosis cutis carcinoides 
+Patch blue nevus 
+Perifollicular fibroma
+Phakomatosis pigmentokeratotica
+Pigmented actinic keratosis
+Pigmented basal cell carcinoma
+Pigmented hairy epidermal nevus syndrome
+Pilar sheath acanthoma
+Pilonidal sinus 
+Polypoid basal cell carcinoma
+Pore-like basal cell carcinoma
+Primary cutaneous adenoid cystic carcinoma
+Proliferating epidermoid cyst 
+Proliferating trichilemmal cyst 
+Pseudocyst of the auricle 
+Pseudoepitheliomatous keratotic and micaceous balanitis
+PUVA keratosis
+Rasmussen syndrome
+Reactional keratosis
+Reticulated seborrheic keratosis 
+Rodent ulcer 
+Schimmelpenning syndrome 
+Sebaceoma 
+Sebaceous adenoma
+Sebaceous carcinoma
+Sebaceous hyperplasia
+Sebaceous nevus syndrome
+Seboacanthoma
+Seborrheic keratosis 
+Seborrheic keratosis with squamous atypia
+Signet-ring cell squamous cell carcinoma
+Solitary keratoacanthoma 
+Solitary trichoepithelioma
+Spindle cell squamous cell carcinoma 
+Spiradenoma
+Squamous cell carcinoma
+Ulceration and crusting over a skin lesion on the front of an adult nose
+Squamous cell carcinoma
+Steatocystoma multiplex 
+Steatocystoma simplex 
+Stucco keratosis 
+Superficial basal cell carcinoma 
+Syringadenoma papilliferum 
+Syringofibroadenoma 
+Syringoma
+Systematized epidermal nevus
+Thermal keratosis
+Trichilemmal carcinoma
+Trichilemmal cyst 
+Trichilemmoma
+Trichoadenoma 
+Trichoblastoma
+Trichoblastic fibroma
+Trichodiscoma
+Trichofolliculoma
+Unilateral palmoplantar verrucous nevus
+Urethral caruncle
+Verrucous carcinoma
+Verrucous cyst 
+Viral keratosis
+Warty dyskeratoma 
+Waxy keratosis of childhood 
+Zoon's vulvitis
+Zosteriform speckled lentiginous nevus
+Erythema annulare centrifugum 
+Erythema gyratum repens 
+Erythema migrans 
+Erythema multiforme
+Erythema multiforme minor 
+Erythema palmare
+Generalized erythema
+Necrolytic acral erythema
+Necrolytic migratory erythema 
+18q deletion syndrome
+Acrodermatitis enteropathica
+Acrogeria 
+Acrokeratosis verruciformis 
+Adams–Oliver syndrome
+Adducted thumbs syndrome
+Albright's hereditary osteodystrophy
+Angelman syndrome
+Apert syndrome 
+Arthrogryposis–renal dysfunction–cholestasis syndrome
+Ataxia telangiectasia 
+Atrichia with papular lesions 
+Atrophodermia vermiculata 
+Autoimmune polyendocrinopathy–candidiasis–ectodermal dystrophy syndrome
+Bart syndrome
+Bazex–Dupré–Christol syndrome 
+Beare–Stevenson cutis gyrata syndrome
+Bloom syndrome 
+Blue rubber bleb nevus syndrome
+Brittle hair–intellectual impairment–decreased fertility–short stature syndrome
+Cantú syndrome
+Cardio-facio-cutaneous syndrome 
+Cartilage–hair hypoplasia 
+Cerebral dysgenesis–neuropathy–ichthyosis–keratoderma syndrome
+Childhood tumor syndrome
+Chondrodysplasia punctata
+Cicatricial junctional epidermolysis bullosa
+Craniosynostosis–anal anomalies–porokeratosis syndrome
+Cockayne syndrome
+Colobomas of the eye–heart defects–ichthyosiform dermatosis–mental retardation–ear defects syndrome 
+Congenital hemidysplasia with ichthyosiform erythroderma and limb defects syndrome 
+Conradi–Hünermann syndrome 
+Costello syndrome
+Cronkhite–Canada syndrome
+Crouzon syndrome
+Cutis verticis gyrata
+Darier's disease 
+Many hyperkeratotic, vegetative, and hyperpigmented papules in a zosteriform pattern on the right lateral lower extremity of an adult
+Linear Darier disease
+DeSanctis–Cacchione syndrome
+Disseminated superficial actinic porokeratosis
+Disseminated superficial porokeratosis
+Dolichol kinase deficiency
+Dominant dystrophic epidermolysis bullosa
+Dyskeratosis congenita 
+Dystrophic epidermolysis bullosa
+Ectodermal dysplasia
+Ectodermal dysplasia with corkscrew hairs
+Ectrodactyly–ectodermal dysplasia–cleft syndrome 
+Epidermolysis bullosa herpetiformis 
+Epidermolysis bullosa simplex
+Epidermolysis bullosa simplex of Ogna
+Epidermolysis bullosa simplex with mottled pigmentation
+Epidermolysis bullosa simplex with muscular dystrophy
+Epidermolytic hyperkeratosis 
+Erythrokeratodermia with ataxia 
+Familial benign chronic pemphigus 
+Fanconi syndrome 
+Fibrodysplasia ossificans progressiva
+Focal dermal hypoplasia 
+Follicular atrophoderma
+Franceschetti–Klein syndrome 
+Gardner's syndrome 
+Gastrocutaneous syndrome
+Generalized atrophic benign epidermolysis bullosa
+Generalized epidermolysis bullosa simplex 
+Generalized trichoepithelioma
+Giant axonal neuropathy with curly hair
+Gingival fibromatosis with hypertrichosis
+Haber syndrome
+Hallerman–Streiff syndrome
+Harlequin-type ichthyosis 
+Hay–Wells syndrome 
+Hereditary sclerosing poikiloderma
+Small, red, monomorphic skin lesions on the back of an adult arm
+Keratosis pilaris
+Heterochromia iridum
+Holocarboxylase synthetase deficiency
+Hypohidrotic ectodermal dysplasia 
+Hypotrichosis–acro-osteolysis–onychogryphosis–palmoplantar keratoderma–periodontitis syndrome
+Hypotrichosis–lymphedema–telangiectasia syndrome
+Ichthyosis–brittle hair–impaired intelligence–decreased fertility–short stature syndrome 
+Ichthyosis bullosa of Siemens 
+Ichthyosis follicularis 
+Ichthyosis linearis circumflexa
+Ichthyosis prematurity syndrome
+Ichthyosis vulgaris 
+Ichthyosis with confetti
+Neonatal ichthyosis–sclerosing cholangitis syndrome 
+Incontinentia pigmenti achromians 
+Immune dysfunction–polyendocrinopathy–enteropathy–X-linked syndrome
+Jaffe–Campanacci syndrome
+Johanson–Blizzard syndrome
+Johnson–McMillin syndrome
+Joubert syndrome
+Junctional epidermolysis bullosa
+Junctional epidermolysis bullosa gravis 
+Junctional epidermolysis bullosa with pyloric atresia
+Kabuki syndrome 
+Keratolytic winter erythema 
+Keratosis follicularis spinulosa decalvans 
+Keratosis linearis with ichthyosis congenita and sclerosing keratoderma syndrome
+Keratosis pilaris atrophicans faciei 
+Keratosis pilaris
+Kindler syndrome 
+Klinefelter syndrome
+Klippel–Feil syndrome
+Lamellar ichthyosis 
+Legius syndrome 
+Lelis syndrome
+Lenz–Majewski syndrome
+Leschke syndrome
+Lethal acantholytic epidermolysis bullosa
+Lhermitte–Duclos disease
+Linear and whorled nevoid hypermelanosis 
+Linear Darier disease 
+Linear porokeratosis
+Localized epidermolysis bullosa simplex 
+Mandibuloacral dysplasia
+Marinesco–Sjögren syndrome
+McCune–Albright syndrome
+McCusick syndrome
+Metageria
+Microphthalmia–dermal aplasia–sclerocornea syndrome
+Mitis junctional epidermolysis bullosa 
+Mitochondrial myopathy–encephalopathy–lactic acidosis–stroke syndrome
+Multiple lentigines syndrome 
+Multiple pterygium syndrome
+Multiple sulfatase deficiency 
+Naegeli–Franceschetti–Jadassohn syndrome 
+Netherton syndrome
+Neurofibromatosis type 1 
+Many small to large, skin colored nodules on the trunk of an adult
+Neurofibromatosis type 1
+Neurofibromatosis type 3 
+Neurofibromatosis type 4 
+Neutral lipid storage disease 
+Nonbullous congenital ichthyosiform erythroderma 
+Noonan syndrome
+Oculocerebrocutaneous syndrome 
+Oculodentodigital dysplasia
+Odonto–Tricho–Ungual–Digital–Palmar syndrome
+Oliver–McFarlane syndrome
+Orofaciodigital syndrome
+Pachydermoperiostosis 
+Peeling skin syndrome 
+Pfeiffer syndrome
+Photosensitivity–ichthyosis–brittle sulfur-deficient hair–impaired intelligence–decreased fertility–short stature syndrome
+Pityriasis rotunda 
+Plate-like osteoma cutis
+Plaque-type porokeratosis 
+Polyneuropathy–organomegaly–endocrinopathy–monoclonal gammopathy–skin changes syndrome 
+Polyostotic fibrous dysplasia 
+Popliteal pterygium syndrome
+Porokeratosis
+Porokeratosis palmaris et plantaris disseminata
+Prader–Willi syndrome
+Progeria 
+Progressive osseous heteroplasia
+Progressive symmetric erythrokeratodermia 
+Proteus syndrome
+Proteus-like syndrome
+Punctate porokeratosis
+Rapp–Hodgkin syndrome 
+Recessive dystrophic epidermolysis bullosa 
+Refsum's disease 
+Relapsing linear acantholytic dermatosis
+Restrictive dermopathy
+Thick, fish-like scales on an adult lower leg
+X-linked ichthyosis
+Rhizomelic chondrodysplasia punctata 
+Rombo syndrome
+Rothmund–Thomson syndrome 
+Rud syndrome
+Say syndrome
+Scalp–ear–nipple syndrome 
+Schindler disease 
+Schinzel–Giedion syndrome
+Scleroatrophic syndrome of Huriez 
+Segmental neurofibromatosis
+Senter syndrome 
+Shabbir syndrome 
+Silver–Russell syndrome
+Sjögren–Larsson syndrome
+Skin fragility syndrome 
+Smith–Lemli–Opitz syndrome
+Sturge–Weber syndrome
+Supernumerary nipples–uropathies–Becker's nevus syndrome
+Terminal osseous dysplasia with pigmentary defects
+Tooth and nail syndrome 
+Townes–Brocks syndrome
+Transient bullous dermolysis of the newborn
+Frontal image of a child's face showing large hyperkeratotic papules and plaques with some induration suspicious for actinic keratoses and early squamous cell carcinomas
+Xeroderma pigmentosum
+Treacher Collins syndrome 
+Tricho–dento–osseous syndrome
+Tricho–rhino–phalangeal syndrome
+Tuberous sclerosis 
+Turner syndrome
+Ulnar–mammary syndrome
+Van Der Woude syndrome
+Von Hippel–Lindau syndrome
+Watson syndrome
+Werner syndrome 
+Westerhof syndrome
+Whistling syndrome 
+Wilson–Turner syndrome
+Wolf–Hirschhorn syndrome 
+X-linked ichthyosis 
+X-linked recessive chondrodysplasia punctata
+Xeroderma pigmentosum 
+XXYY genotype
+Zimmermann–Laband syndrome
+Aeromonas infection
+African tick bite fever
+American tick bite fever 
+Arcanobacterium haemolyticum infection
+Bacillary angiomatosis
+Bejel 
+Blastomycosis-like pyoderma 
+Blistering distal dactylitis
+Botryomycosis
+Brill–Zinsser disease
+Brucellosis 
+Bubonic plague
+Bullous impetigo
+Cat scratch disease 
+Cellulitis
+Redness and mild swelling of an adult leg
+Cellulitis
+Chancre
+Chancroid 
+Chlamydial infection
+Chronic lymphangitis
+Chronic recurrent erysipelas
+Chronic undermining burrowing ulcers 
+Chromobacteriosis infection
+Condylomata lata
+Cutaneous actinomycosis
+Cutaneous anthrax infection
+Cutaneous C. diphtheriae infection 
+Cutaneous group B streptococcal infection
+Cutaneous Pasteurella hemolytica infection
+Cutaneous Streptococcus iniae infection
+Dermatitis gangrenosa 
+Ecthyma
+Ecthyma gangrenosum
+Ehrlichiosis ewingii infection
+Elephantiasis nostras
+Endemic typhus 
+Epidemic typhus 
+Erysipelas 
+Erysipeloid of Rosenbach
+Erythema marginatum
+Erythrasma
+External otitis 
+Exudate over a background of redness on the external ear canal of an adult
+External otitis
+Felon
+Flea-borne spotted fever
+Flinders Island spotted fever
+Flying squirrel typhus
+Folliculitis
+Fournier gangrene 
+Furunculosis 
+Gas gangrene 
+Glanders 
+Gonococcemia 
+Gonorrhea 
+Gram-negative folliculitis
+Gram-negative toe web infection
+Granuloma inguinale 
+Green nail syndrome
+Group JK Corynebacterium sepsis
+Haemophilus influenzae cellulitis
+Helicobacter cellulitis
+Hospital furunculosis
+Hot tub folliculitis 
+Human granulocytotropic anaplasmosis
+Human monocytotropic ehrlichiosis
+Impetigo contagiosa
+Japanese spotted fever
+Leptospirosis 
+Listeriosis
+Ludwig's angina
+Lupoid sycosis
+Lyme disease 
+Lymphogranuloma venereum 
+Malakoplakia 
+Mediterranean spotted fever 
+Melioidosis 
+Meningococcemia
+Missouri Lyme disease
+Mycoplasma infection
+Necrotizing fasciitis 
+Neonatal toxic shock-like exanthematous disease
+Nocardiosis
+Noma neonatorum
+North Asian tick typhus
+Ophthalmia neonatorum
+Redness and swelling of an ear
+Erysipelas
+Oroya fever 
+Pasteurellosis
+Perianal cellulitis 
+Periapical abscess
+Pinta
+Pitted keratolysis 
+Plague
+Primary gonococcal dermatitis
+Pseudomonal pyoderma
+Pseudomonas hot-foot syndrome
+Pyogenic paronychia
+Pyomyositis
+Q fever
+Queensland tick typhus
+Rat-bite fever
+Recurrent toxin-mediated perineal erythema
+Rhinoscleroma
+Rickettsia aeschlimannii infection
+Rickettsialpox
+Rocky Mountain spotted fever
+Saber shin 
+Saddle nose
+Salmonellosis
+Scarlet fever
+Scrub typhus 
+Shigellosis
+Staphylococcal scalded skin syndrome 
+Streptococcal intertrigo
+Superficial pustular folliculitis 
+Sycosis vulgaris 
+Syphilid
+Syphilis 
+Tick-borne lymphadenopathy
+Toxic shock syndrome 
+Trench fever 
+Tropical ulcer 
+Tularemia 
+Verruga peruana
+Vibrio vulnificus infection
+Yaws 
+Aquarium granuloma 
+Borderline lepromatous leprosy
+Borderline leprosy
+Borderline tuberculoid leprosy
+Buruli ulcer 
+Ulceration of the skin over the back of a teenager's hand
+Buruli ulcer
+Erythema induratum 
+Histoid leprosy
+Lepromatous leprosy
+Leprosy 
+Lichen scrofulosorum 
+Lupus vulgaris 
+Miliary tuberculosis 
+Mycobacterium avium-intracellulare complex infection
+Mycobacterium haemophilum infection
+Mycobacterium kansasii infection
+Papulonecrotic tuberculid
+Primary inoculation tuberculosis 
+Rapid-growing Mycobacterium infection
+Scrofuloderma 
+Tuberculosis cutis orificialis 
+Tuberculosis verrucosa cutis 
+Tuberculous cellulitis
+Tuberculous gumma 
+Tuberculoid leprosy
+African histoplasmosis
+Alternariosis
+Antibiotic candidiasis 
+Black piedra
+Candidal intertrigo
+Candidal onychomycosis
+Candidal paronychia
+Candidal vulvovaginitis
+Candidid
+Chromoblastomycosis 
+Chronic mucocutaneous candidiasis
+Coccidioidomycosis 
+Congenital cutaneous candidiasis
+Cryptococcosis
+Dermatophytid
+Diaper candidiasis
+Disseminated coccidioidomycosis 
+Distal subungual onychomycosis
+Entomophthoromycosis
+Erosio interdigitalis blastomycetica
+A large brown colored plaque on the top of a child's head
+Favus
+Favus
+Fungal folliculitis 
+Fusariosis
+Geotrichosis
+Granuloma gluteale infantum
+Histoplasmosis 
+Hyalohyphomycosis
+Kerion
+Lobomycosis 
+Mucormycosis
+Mycetoma 
+North American blastomycosis 
+Onychomycosis 
+Oral candidiasis 
+Otomycosis
+Perianal candidiasis
+Perlèche 
+Phaeohyphomycosis
+Piedra 
+Pityrosporum folliculitis
+Primary cutaneous aspergillosis
+Primary cutaneous coccidioidomycosis
+Primary cutaneous histoplasmosis
+Primary pulmonary coccidioidomycosis
+Primary pulmonary histoplasmosis
+Progressive disseminated histoplasmosis
+Proximal subungual onychomycosis
+Rhinosporidiosis
+South American blastomycosis 
+Sporotrichosis 
+Systemic candidiasis
+Tinea barbae 
+Multiple circular, red, scaling lesions on a male cheek
+Tinea barbae
+Tinea capitis 
+Tinea corporis 
+Tinea corporis gladiatorum
+Tinea cruris 
+Tinea faciei
+Tinea imbricata 
+Tinea incognito
+Tinea manuum
+Tinea nigra 
+Tinea pedis 
+Tinea versicolor 
+White piedra
+White superficial onychomycosis
+Zygomycosis 
+Acanthamoeba infection
+Amebiasis cutis
+Ant sting
+Arachnidism
+Baker's itch
+Balamuthia infection
+Bedbug infestation 
+Bee and wasp stings
+Blister beetle dermatitis
+Bombardier beetle burn
+Bristleworm sting
+Multiple, red, linear plaques on the extremity
+Creeping eruption
+Centipede bite
+Cheyletiella dermatitis
+Chigger bite
+Coolie itch
+Copra itch
+Coral dermatitis
+Creeping eruption 
+Cutaneous leishmaniasis 
+Cysticercosis cutis
+Demodex mite bite
+Dogger Bank itch
+Dracunculiasis 
+Echinococcosis 
+Elephantiasis tropica 
+Elephant skin
+Enterobiasis 
+Erisipela de la costa
+Feather pillow dermatitis
+Funnel web spider bite
+Gamasoidosis
+Gnathostomiasis 
+Grain itch 
+Grocer's itch
+Head lice infestation 
+Hookworm disease 
+Human trypanosomiasis
+Hydroid dermatitis
+Irukandji syndrome
+Jellyfish dermatitis
+Ked itch
+Larva currens
+Latrodectism 
+Leech bite
+Leopard skin
+Lepidopterism 
+Lizard skin
+Loaiasis 
+Loxoscelism 
+Mal morando
+Millipede burn
+Mosquito bite
+Mucocutaneous leishmaniasis 
+Myiasis
+Nairobi fly dermatitis 
+Nematode dermatitis
+Norwegian scabies 
+Diffuse thickening of the skin over an adult's bilateral arms and fingers
+Norwegian scabies
+Onchocerciasis
+Ophthalmia nodosa
+Paederus dermatitis
+Pediculosis corporis 
+Pediculosis pubis 
+Pneumocystosis 
+Portuguese man-of-war dermatitis
+Post-kala-azar dermal leishmaniasis 
+Protothecosis
+Pulicosis 
+Reduviid bite
+Scabies 
+Scorpion sting
+Sea anemone dermatitis
+Seabather's eruption 
+Sea urchin injury
+Seaweed dermatitis
+Snake bite
+Sowda
+Sparganosis
+Spider bite
+Stingray injury
+Swimmer's itch 
+Multiple red bumps on the lower legs and feet
+Swimmer's itch
+Tarantula bite
+Tick bite
+Toxoplasmosis
+Trichinosis
+Trichomoniasis
+Tungiasis 
+Visceral leishmaniasis 
+Visceral schistosomiasis 
+Viscerotropic leishmaniasis
+Wheat warehouse itch
+Alphavirus infection
+Asymmetric periflexural exanthem of childhood 
+B virus infection
+Boston exanthem disease
+Bovine papular stomatitis
+Bowenoid papulosis
+Buffalopox
+Butcher's wart
+Chikungunya fever
+Condylomata acuminata
+Congenital rubella syndrome
+Cowpox
+Cytomegalic inclusion disease
+Dengue 
+Disseminated herpes zoster
+Eczema herpeticum 
+A diffuse, generalized red rash over a newborn's entire body
+Eczema vaccinatum
+Eczema vaccinatum
+Epidermodysplasia verruciformis
+Eruptive pseudoangiomatosis
+Erythema infectiosum 
+Exanthem of primary HIV infection 
+Farmyard pox
+Generalized vaccinia
+Genital herpes 
+Gianotti–Crosti syndrome 
+Giant condyloma acuminatum 
+Hand-foot-and-mouth disease
+Heck's disease 
+Hemorrhagic fever with renal syndrome
+Hepatitis B
+Hepatitis C
+Herpangina
+Herpes gladiatorum 
+Herpes simplex
+Herpes zoster oticus 
+Herpetic keratoconjunctivitis
+Herpetic sycosis
+Herpetic whitlow
+HIV-associated pruritus
+Human monkeypox
+Human T-lymphotropic virus 1 infection
+Human tanapox
+Immune reconstitution inflammatory syndrome 
+Infectious mononucleosis 
+Inflammatory skin lesions following zoster infection 
+Intrauterine herpes simplex
+Multiple dark red skin lesions
+Kaposi sarcoma
+Kaposi sarcoma
+Lassa fever
+Lipschütz ulcer 
+Measles 
+Milker's nodule
+Modified varicella-like syndrome
+Molluscum contagiosum
+Myrmecia
+Neonatal herpes simplex
+Ophthalmic zoster
+Orf 
+Orf-induced immunobullous disease
+Orolabial herpes 
+Papular purpuric gloves and socks syndrome
+Pigmented wart
+Postherpetic neuralgia 
+Post-vaccination follicular eruption
+Progressive vaccinia 
+Pseudocowpox
+Recurrent respiratory papillomatosis 
+Multiple red papules scattered over a child's head, neck, trunk, and upper extremities
+Varicella
+Rift Valley fever
+Roseola infantum 
+Roseola vaccinia
+Rubella 
+Sandfly fever 
+Sealpox
+Varicella 
+Variola major 
+Verruca plana 
+Verruca plantaris 
+Verruca vulgaris 
+Verrucae palmares et plantares
+Viral-associated trichodysplasia 
+Wasting syndrome
+West Nile virus infection
+Zoster 
+Zoster sine herpete
+Annular lichen planus
+Violaceous, annular, scaly plaques on the face and scalp of an adult
+Lichen planus actinicus
+Atrophic lichen planus
+Bullous lichen planus 
+Erosive lichen planus
+Erythema dyschromicum perstans 
+Giant cell lichenoid dermatitis
+Hepatitis-associated lichen planus
+Hypertrophic lichen planus 
+Idiopathic eruptive macular pigmentation
+Inverse lichen planus
+Keratosis lichenoides chronica 
+Kraurosis vulvae
+Lichen nitidus
+Lichen planus actinicus 
+Lichen planus pemphigoides
+Lichen planus pigmentosus
+Lichen planus–lichen sclerosus overlap syndrome
+Lichen ruber moniliformis
+Lichen sclerosus 
+Lichen striatus 
+Lichen verrucosus et reticularis
+Lichenoid trikeratosis
+Lichenoid dermatitis
+Lichenoid reaction of graft-versus-host disease
+Linear lichen planus
+Mucosal lichen planus
+Peno-gingival syndrome
+Ulcerative lichen planus
+Vulvovaginal gingival syndrome
+Vulvovaginal lichen planus
+Adult T-cell leukemia/lymphoma
+Angiocentric lymphoma 
+Angioimmunoblastic T-cell lymphoma 
+Blastic NK-cell lymphoma
+CD30+ cutaneous T-cell lymphoma 
+Cutaneous lymphoid hyperplasia 
+A solitary, large, red papule on the left cheek of an adult male
+Cutaneous lymphoid hyperplasia
+Cutaneous lymphoid hyperplasia with bandlike and perivascular patterns
+Cutaneous lymphoid hyperplasia with nodular pattern 
+Diffuse large B-cell lymphoma 
+Granulocytic sarcoma 
+Granulomatous slack skin
+Hairy-cell leukemia
+Hodgkin's disease
+Ichthyosis acquisita 
+IgG4-related skin disease
+Intravascular large B-cell lymphoma 
+Jessner lymphocytic infiltrate of the skin 
+Kikuchi's disease 
+Large plaque parapsoriasis 
+Lennert lymphoma 
+Leukemia cutis
+Lymphoma cutis
+Lymphomatoid granulomatosis
+Lymphomatoid papulosis
+Malignant histiocytosis 
+Marginal zone B-cell lymphoma
+Mucosa-associated lymphoid tissue lymphoma
+Mycosis fungoides
+Non-mycosis fungoides CD30− cutaneous large T-cell lymphoma
+Nonspecific cutaneous conditions associated with leukemia 
+Pagetoid reticulosis 
+Pityriasis lichenoides chronica 
+Pityriasis lichenoides et varioliformis acuta 
+Plasmacytoma
+A large ulcerated plaque on the leg of an adult male
+Mycosis fungoides
+Plasmacytosis
+Pleomorphic T-cell lymphoma 
+Polycythemia vera 
+Primary cutaneous follicular lymphoma 
+Primary cutaneous immunocytoma
+Primary cutaneous marginal zone lymphoma
+Retiform parapsoriasis
+Secondary cutaneous CD30+ large cell lymphoma
+Sézary syndrome
+Sinus histiocytosis with massive lymphadenopathy 
+Subcutaneous T-cell lymphoma 
+Vesiculopustular eruption and leukemoid reaction in Down syndrome
+Acral nevus 
+Amelanotic blue nevus 
+A large, light-tan colored patch of skin over an adult's left shoulder and upper back
+Becker's nevus
+Balloon cell nevus
+Bannayan–Riley–Ruvalcaba syndrome
+Becker's nevus 
+Benign melanocytic nevus 
+Blue nevus 
+Blue nevus of Jadassohn–Tièche 
+Carney complex 
+Cellular blue nevus
+Centrofacial lentiginosis
+Congenital melanocytic nevus
+Deep penetrating nevus
+Dysplastic nevus 
+Dysplastic nevus syndrome 
+Ephelis 
+Epithelioid blue nevus
+Generalized lentiginosis
+Giant pigmented nevus 
+Halo nevus 
+Hori's nevus 
+Inherited patterned lentiginosis in black persons
+Ink spot lentigo 
+Laugier–Hunziker syndrome
+Lentigo simplex 
+Malignant blue nevus
+Medium-sized congenital nevocytic nevus
+Melanoacanthoma
+Melanocytic tumors of uncertain malignant potential
+Moynahan syndrome
+Mucosal lentigines 
+Nevus of Ito 
+Nevus of Ota 
+Nevus spilus 
+Partial unilateral lentiginosis 
+Peutz–Jeghers syndrome
+Pigmented spindle cell nevus 
+Pseudomelanoma 
+PUVA lentigines
+Small-sized congenital nevocytic nevus
+Spitz nevus 
+Solar lentigo 
+Acral lentiginous melanoma
+A dark brown to black, irregularly shaped nodule on the malar surface of an adult
+Nodular melanoma
+Amelanotic melanoma
+Animal-type melanoma
+Desmoplastic melanoma 
+Lentigo maligna 
+Lentigo maligna melanoma
+Melanoma with features of a Spitz nevus 
+Melanoma with small nevus-like cells 
+Mucosal melanoma
+Nevoid melanoma
+Nodular melanoma
+Polypoid melanoma
+Seborrheic keratosis-like melanoma
+Soft-tissue melanoma 
+Superficial spreading melanoma 
+Uveal melanoma
+Actinic granuloma 
+Annular elastolytic giant cell granuloma 
+Annular sarcoidosis
+Large, well demarcated plaques with red, active borders, all located on the lower leg of an adult
+Generalized granuloma annulare
+Benign cephalic histiocytosis 
+Congenital self-healing reticulohistiocytosis 
+Erythrodermic sarcoidosis
+Generalized eruptive histiocytoma 
+Generalized granuloma annulare
+Giant cell reticulohistiocytoma 
+Granuloma annulare in HIV disease
+Granuloma multiforme 
+Hand–Schüller–Christian disease
+Heerfordt's syndrome
+Hereditary progressive mucinous histiocytosis
+Hypopigmented sarcoidosis
+Ichthyosiform sarcoidosis
+Indeterminate cell histiocytosis
+Interstitial granulomatous drug reaction
+Langerhans cell histiocytosis 
+Letterer–Siwe disease
+Localized granuloma annulare
+Löfgren syndrome
+Lupus pernio
+Morpheaform sarcoidosis
+Mucosal sarcoidosis
+Multicentric reticulohistiocytosis
+Necrobiotic xanthogranuloma 
+Non-X histiocytosis
+Papular sarcoid
+Papular xanthoma
+Patch-type granuloma annulare 
+Perforating granuloma annulare
+Multiple reddish-brownish papules and plaques on the left mandibular region of an adult face
+Systemic sarcoidosis
+Progressive nodular histiocytosis
+Reticulohistiocytoma
+Scar sarcoid 
+Sea-blue histiocytosis
+Subcutaneous granuloma annulare 
+Subcutaneous sarcoidosis 
+Systemic sarcoidosis
+Ulcerative sarcoidosis
+Xanthoma disseminatum 
+Acral persistent papular mucinosis
+Atypical lichen myxedematosus 
+Atypical tuberous myxedema 
+Cutaneous focal mucinosis
+Cutaneous lupus mucinosis 
+Discrete papular lichen myxedematosus
+Eccrine mucinosis
+Follicular mucinosis 
+Localized lichen myxedematosus
+Myxoid cyst 
+Myxoid lipoblastoma
+Neuropathia mucinosa cutanea
+Nodular lichen myxedematosus
+Papular mucinosis 
+Papular mucinosis of infancy 
+Perifollicular mucinosis
+Reticular erythematous mucinosis 
+Scleroderma
+Self-healing juvenile cutaneous mucinosis
+Self-healing papular mucinosis
+Stiff skin syndrome 
+Atypical chronic pain syndrome
+Body dysmorphic disorder 
+Brachioradial pruritus
+Bromidrosiphobia
+Complex regional pain syndrome 
+Congenital insensitivity to pain with anhidrosis
+Delusional parasitosis 
+Dermatothlasia
+Factitious dermatitis 
+Multiple, well-demarcated, linear, longitudinal erosions on the dorsum of the bilateral forearms
+Factitious dermatitis
+Glossodynia 
+Levator ani syndrome
+Malum perforans pedis 
+Meralgia paresthetica 
+Neurotic excoriations
+Notalgia paresthetica 
+Postencephalitic trophic ulcer
+Psychogenic pruritus
+Riley–Day syndrome 
+Scalp dysesthesia
+Sciatic nerve injury
+Scrotodynia
+Syringomyelia 
+Traumatic neuroma 
+Trichotillomania 
+Trigeminal neuralgia 
+Trigeminal trophic lesion 
+Vulvodynia 
+Bare lymphocyte syndrome
+Chronic granulomatous disease 
+Common variable immunodeficiency 
+Complement deficiency
+DiGeorge syndrome 
+Graft-versus-host disease
+Griscelli syndrome
+Hyper-IgE syndrome 
+Immunodeficiency with hyper-IgM
+Immunodeficiency–centromeric instability–facial anomalies syndrome 
+Isolated IgA deficiency
+Isolated primary IgM deficiency
+Janus kinase 3 deficiency
+Leukocyte adhesion molecule deficiency
+LIG4 syndrome
+Myeloperoxidase deficiency
+Neutrophil immunodeficiency syndrome
+Nezelof syndrome 
+Omenn syndrome
+Redness and scaliness of the entire skin on a 5-month-old female infant
+Omenn syndrome
+Purine nucleoside phosphorylase deficiency
+Severe combined immunodeficiency 
+Shwachman–Bodian–Diamond syndrome
+Thymoma with immunodeficiency 
+Transient hypogammaglobulinemia of infancy
+Warts–hypogammaglobulinemia–infections–myelokathexis syndrome 
+Wiskott–Aldrich syndrome
+X-linked agammaglobulinemia 
+X-linked hyper-IgM syndrome
+X-linked hypogammaglobulinemia
+X-linked lymphoproliferative disease 
+X-linked neutropenia
+Biotin deficiency
+Carotenemia
+Essential fatty acid deficiency
+Folic acid deficiency
+Hypervitaminosis A
+Hypovitaminosis A 
+Iron deficiency
+Small, scattered bumps on a child's lower back and buttock
+Kwashiorkor
+Kwashiorkor
+Lycopenemia
+Maple syrup urine disease
+Marasmus
+Niacin deficiency 
+Selenium deficiency
+Vitamin B1 deficiency 
+Vitamin B12 deficiency 
+Vitamin B2 deficiency 
+Vitamin B6 deficiency 
+Vitamin B6 excess 
+Vitamin C deficiency 
+Vitamin K deficiency
+Zinc deficiency
+Confluent and reticulated papillomatosis 
+Digitate dermatosis
+Drug-induced keratoderma
+Exfoliative dermatitis 
+Florid cutaneous papillomatosis
+Granular parakeratosis 
+Keratolysis exfoliativa 
+Keratosis punctata of the palmar creases 
+Meesmann corneal dystrophy
+Paraneoplastic keratoderma
+Pityriasis rosea 
+Pityriasis rubra pilaris 
+Pure hair-nail type ectodermal dysplasia
+Small plaque parapsoriasis 
+Tripe palms
+Xanthoerythrodermia perstans
+Acrokeratoelastoidosis of Costa 
+Aquagenic keratoderma 
+Bart–Pumphrey syndrome 
+Camisa disease
+Carvajal syndrome 
+Corneodermatoosseous syndrome 
+Diffuse epidermolytic palmoplantar keratoderma 
+Diffuse nonepidermolytic palmoplantar keratoderma 
+Erythrokeratodermia variabilis 
+Focal acral hyperkeratosis 
+Focal palmoplantar and gingival keratosis
+Focal palmoplantar keratoderma with oral mucosal hyperkeratosis 
+Haim–Munk syndrome 
+Hidrotic ectodermal dysplasia 
+Howel–Evans syndrome 
+Hystrix-like ichthyosis–deafness syndrome 
+Keratoderma climactericum 
+Keratosis punctata palmaris et plantaris 
+Keratitis–ichthyosis–deafness syndrome 
+Mal de Meleda 
+Naxos syndrome 
+Olmsted syndrome 
+Pachyonychia congenita type I 
+Pachyonychia congenita type II 
+Palmoplantar keratoderma and spastic paraplegia 
+Palmoplantar keratoderma of Sybert 
+Papillon–Lefèvre syndrome 
+Porokeratosis plantaris discreta
+Punctate palmoplantar keratoderma
+Schöpf–Schulz–Passarge syndrome 
+Scleroatrophic syndrome of Huriez 
+Striate palmoplantar keratoderma 
+Spiny keratoderma 
+Tyrosinemia type II 
+Vohwinkel syndrome 
+Impetigo herpetiformis
+Intrahepatic cholestasis of pregnancy 
+Linea nigra
+Pemphigoid gestationis 
+Prurigo gestationis 
+Pruritic folliculitis of pregnancy
+Pruritic urticarial papules and plaques of pregnancy 
+Striae gravidarum
+Adult blaschkitis
+Aquadynia
+Aquagenic pruritus
+Biliary pruritus
+Cholestatic pruritus
+Drug-induced pruritus
+Hydroxyethyl starch-induced pruritus
+Lichen simplex chronicus 
+Large, hyperpigmented, lichenified plaque
+Lichen simplex chronicus
+Prion pruritus
+Prurigo nodularis
+Prurigo pigmentosa
+Prurigo simplex
+Pruritus ani
+Pruritus scroti
+Pruritus vulvae
+Puncta pruritica 
+Scalp pruritus
+Senile pruritus
+Uremic pruritus 
+Annular pustular psoriasis
+Drug-induced psoriasis
+Exanthematic pustular psoriasis
+Generalized pustular psoriasis 
+Guttate psoriasis 
+Inverse psoriasis
+Keratoderma blennorrhagica 
+Localized pustular psoriasis
+Napkin psoriasis
+Psoriasis vulgaris 
+Psoriatic arthritis
+Psoriatic erythroderma 
+Seborrheic-like psoriasis 
+Acute erythema nodosum
+Bowel-associated dermatosis–arthritis syndrome 
+Marshall syndrome
+Neutrophilic dermatosis of the dorsal hands 
+Neutrophilic eccrine hidradenitis
+Pyoderma gangrenosum
+Pyogenic arthritis–pyoderma gangrenosum–acne syndrome 
+Rheumatoid neutrophilic dermatitis 
+Superficial granulomatous pyoderma
+Sweet's syndrome 
+Sweet's syndrome-like dermatosis
+Vesicopustular dermatosis
+Dermatitis repens 
+Infantile acropustulosis 
+Palmoplantar pustulosis 
+Pustular bacterid
+Acute intermittent porphyria
+Adrenoleukodystrophy 
+Alkaptonuria
+Aminolevulinic acid dehydratase deficiency porphyria 
+B-mannosidase deficiency
+Carotenosis
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy syndrome 
+Cerebrotendinous xanthomatosis
+Citrullinemia
+Congenital erythropoietic porphyria 
+Diabetic bulla 
+Diabetic cheiroarthropathy
+Diabetic dermopathy 
+Dystrophic calcinosis cutis
+Eruptive xanthoma
+Erythropoietic protoporphyria
+The skin of an adult face that is thickening with a waxy or leathery appearance, also with areas of hyperkeratosis
+Erythropoietic protoporphyria
+Fabry disease 
+Familial alpha-lipoprotein deficiency 
+Familial amyloid polyneuropathy
+Familial apoprotein CII deficiency
+Familial combined hyperlipidemia 
+Familial defective apolipoprotein B-100
+Familial dysbetalipoproteinemia 
+Familial hypertriglyceridemia
+Farber disease 
+Fucosidosis
+Gaucher's disease
+Gout 
+Hartnup disease 
+Hemodialysis-associated amyloidosis
+Hepatoerythropoietic porphyria
+Hereditary coproporphyria
+Hereditary gelsolin amyloidosis
+Heredofamilial amyloidosis
+Hunter syndrome
+Hurler syndrome 
+Hurler–Scheie syndrome 
+Hyaluronidase deficiency 
+Iatrogenic calcinosis cutis
+Idiopathic scrotal calcinosis 
+Lafora disease
+Lesch–Nyhan syndrome 
+Lichen amyloidosis
+Limited joint mobility
+Lipoid proteinosis 
+Lipoprotein lipase deficiency 
+Macular amyloidosis
+Multiple nodules on the hands of an adult
+Xanthoma tendinosum
+Maroteaux–Lamy syndrome 
+Medication-induced hyperlipoproteinemia
+Metastatic calcinosis cutis
+Milia-like calcinosis
+Morquio's disease 
+Necrobiosis lipoidica 
+Niemann–Pick disease
+Nodular amyloidosis
+Nodular xanthoma
+Normolipoproteinemic xanthomatosis
+Obstructive liver disease 
+Ochronosis
+Osteoma cutis
+Palmar xanthoma
+Phenylketonuria
+Phytosterolemia 
+Porphyria cutanea tarda
+Primary cutaneous amyloidosis
+Primary systemic amyloidosis
+Prolidase deficiency
+Pseudoporphyria 
+Sanfilippo syndrome
+Scheie syndrome 
+Secondary cutaneous amyloidosis
+Secondary systemic amyloidosis
+Sialidosis
+Sly syndrome 
+Subepidermal calcified nodule 
+Transient erythroporphyria of infancy 
+Multiple broad yellow papules around the medial canthi bilaterally in an adult
+Xanthelasma palpebrarum
+Traumatic calcinosis cutis
+Tuberoeruptive xanthoma 
+Tumoral calcinosis
+Variegate porphyria 
+Verruciform xanthoma
+Waxy skin
+Wilson's disease 
+Xanthelasma palpebrarum 
+Xanthoma diabeticorum
+Xanthoma planum 
+Xanthoma striatum palmare
+Xanthoma tendinosum 
+Xanthoma tuberosum
+Abrasion
+Acrocyanosis
+Actinic prurigo 
+Aerosol burn
+Benign summer light eruption
+Beryllium granuloma
+Black heel and palm 
+Callus 
+Carbon stain
+Redness and swelling of the distal toes
+Chilblains
+Chilblains 
+Chronic actinic dermatitis 
+Colloid milium
+Coma blister
+Coral cut
+Delayed blister
+Dermatosis neglecta
+Edema blister 
+Electrical burn
+Equestrian perniosis
+Erythema ab igne 
+Erythrocyanosis crurum
+Favre–Racouchot syndrome 
+Foreign body reaction
+Fracture blister
+Friction blister
+Frostbite
+Garrod's pad 
+Harpist's finger
+Heel stick wound
+Heat edema
+Hot tar burn
+Hunan hand syndrome 
+Hydroa vacciniforme 
+Jogger's nipple
+Juvenile spring eruption
+Kairo cancer
+Kang cancer
+Kangri ulcer
+Lightning burn
+Loop mark
+Magnetic resonance imaging burn 
+Mercury granuloma
+Miliaria crystallina 
+Miliaria profunda 
+Miliaria pustulosa
+Miliaria rubra 
+Narcotic dermopathy
+Occlusion miliaria
+Painful fat herniation 
+Peat fire cancer
+Photoaging 
+Photosensitivity with HIV infection
+Phototoxic tar dermatitis
+Photosenitization
+Phytophotodermatitis 
+Pinch mark
+Polymorphous light eruption 
+Postmiliarial hypohidrosis
+A large ulceration of the lower back with complete loss of the overlying skin
+Pressure ulcer
+Postoperative hematoma
+Pressure ulcer 
+Pseudoacanthosis nigricans
+Pseudoverrucous papules and nodules
+Pulling boat hands
+PUVA-induced acrobullous dermatosis
+Runner's rump
+Sclerosing lymphangiitis
+Silica granuloma
+Silicone granuloma
+Skin pop scar
+Skin track
+Slap mark
+Solar erythema
+Soot tattoo
+Subcutaneous emphysema
+Sucking blister
+Sunburn
+Surfer's knots
+Tattoo
+Tennis toe
+Thermal burn
+Traumatic asphyxia
+Trench foot
+Tropical anhidrotic asthenia
+Tropical immersion foot 
+Turf toe
+Uranium dermatosis
+UV-sensitive syndrome
+Vibration white finger 
+Warm water immersion foot
+Weathering nodule of ear
+Wrestler's ear 
+Zirconium granuloma
+Acute radiodermatitis
+Large red patches of skin on the back and arm from multiple prolonged electrophysiological and ablation procedures with bi-plane fluoroscopy
+Fluoroscopy burn
+Chronic radiation keratosis
+Chronic radiodermatitis
+Eosinophilic, polymorphic, and pruritic eruption associated with radiotherapy
+Fluoroscopy burn
+Radiation acne
+Radiation cancer
+Radiation dermatitis 
+Radiation recall reaction
+Radiation-induced erythema multiforme
+Radiation-induced hypertrophic scar
+Radiation-induced keloid
+Radiation-induced morphea
+Acquired C1 esterase inhibitor deficiency
+Acute urticaria
+Adrenergic urticaria
+Anaphylaxis
+Aquagenic urticaria
+Cholinergic urticaria
+Chronic urticaria 
+Cold urticaria
+Dermatographism 
+Episodic angioedema with eosinophilia 
+Exercise urticaria 
+Galvanic urticaria
+Heat urticaria
+Hereditary angioedema 
+Localized heat contact urticaria
+Mast cell-independent urticaria
+Physical urticaria
+Primary cold contact urticaria
+Pressure urticaria 
+Reflex cold urticaria
+Schnitzler syndrome
+Secondary cold contact urticaria
+Solar urticaria
+Systemic capillary leak syndrome
+Urticarial allergic eruption
+Urticaria-like follicular mucinosis
+Vibratory angioedema
+Aagenaes syndrome
+Acroangiodermatitis 
+Acute hemorrhagic edema of infancy 
+Arterial insufficiency ulcer 
+Arteriosclerosis obliterans
+Bier spots
+Blueberry muffin baby
+Bonnet–Dechaume–Blanc syndrome 
+Bullous lymphedema
+Bullous small vessel vasculitis 
+Calciphylaxis
+Multiple purpura and early necrosis of skin
+Calciphylaxis
+Caput succedaneum
+Cholesterol embolus 
+Cobb syndrome
+Corona phlebectatica
+Cryofibrinogenemic purpura
+Cryoglobulinemic purpura
+Cryoglobulinemic vasculitis
+Cutaneous small-vessel vasculitis 
+Deep venous thrombosis
+Disseminated intravascular coagulation
+Doucas and Kapetanakis pigmented purpura
+Drug-induced purpura
+Drug-induced thrombocytopenic purpura
+Eczematid-like purpura of Doucas and Kapetanakis
+Epidemic dropsy
+Erythema elevatum diutinum
+Erythromelalgia 
+Factitial lymphedema 
+Fibrinolysis syndrome 
+Food-induced purpura
+Generalized essential telangiectasia 
+Giant-cell arteritis
+Gougerot–Blum syndrome 
+Granulomatosis with polyangiitis
+Harlequin color change
+Hematopoietic ulcer
+Hennekam syndrome 
+Henoch–Schönlein purpura 
+Red, non-blanching skin lesions on the upper leg
+Henoch–Schönlein purpura
+Hereditary hemorrhagic telangiectasia 
+Idiopathic thrombocytopenic purpura 
+IgA vasculitis
+Kawasaki's disease 
+Levamisole-induced vasculitis
+Lichen aureus 
+Livedo racemosa
+Livedo reticularis
+Livedoid dermatitis 
+Livedoid vasculopathy 
+Lymphedema praecox
+Lymphedema–distichiasis syndrome
+Maffucci syndrome
+Majocchi's disease 
+Malignant atrophic papulosis 
+Marshall–White syndrome
+Meige lymphedema
+Microscopic polyangiitis 
+Mondor's disease 
+Neuropathic ulcer 
+Njolstad syndrome
+Nonne–Milroy–Meige syndrome 
+Obstructive purpura
+Orthostatic purpura 
+Painful bruising syndrome 
+Parkes Weber syndrome
+Paroxysmal hand hematoma 
+Paroxysmal nocturnal hemoglobinuria
+Polyarteritis nodosa 
+Postcardiotomy syndrome
+Perinatal gangrene of the buttock
+Pigmentary purpuric eruptions 
+Postinflammatory lymphedema
+Postmastectomy lymphangiosarcoma 
+Purpura fulminans 
+Purpura secondary to clotting disorders
+Purpuric agave dermatitis
+White and red discoloration of the distal fingertips
+Raynaud phenomenon
+Raynaud phenomenon
+Raynaud's disease 
+Reactive angioendotheliomatosis
+Schamberg's disease 
+Secondary lymphedema
+Septic thrombophlebitis
+Sinusoidal hemangioma
+Sneddon's syndrome 
+Solar purpura 
+Stasis dermatitis 
+Superficial thrombophlebitis
+Takayasu arteritis 
+Temporal arteritis 
+Thromboangiitis obliterans 
+Thrombotic thrombocytopenic purpura 
+Traumatic purpura
+Trousseau's syndrome
+Unilateral nevoid telangiectasia 
+Urticarial vasculitis 
+Venous insufficiency ulceration
+Waldenström hyperglobulinemic purpura 
+Waldenström macroglobulinemia
+Yellow nail syndrome 
+Diabetes
+Type 1 Diabetes
+Type 2 Diabetes
+Gestational Diabetes
+Mature Onset Diabetes of the Young
+Hypoglycemia
+Idiopathic hypoglycemia
+Insulinoma
+Glucagonoma
+Goitre
+Hyperthyroidism
+Graves-Basedow disease
+Toxic multinodular goitre
+Hypothyroidism
+Thyroiditis
+Hashimoto's thyroiditis
+Thyroid cancer
+Thyroid hormone resistance
+Parathyroid gland disorders
+Primary hyperparathyroidism
+Secondary hyperparathyroidism
+Tertiary hyperparathyroidism
+Hypoparathyroidism
+Pseudohypoparathyroidism
+Osteoporosis
+Osteitis deformans 
+Rickets
+Osteomalacia
+Diabetes insipidus
+Syndrome of Inappropriate Antidiuretic Hormone 
+Hypopituitarism 
+Pituitary tumors
+Pituitary adenomas
+Prolactinoma 
+Acromegaly, gigantism, dwarfism
+Cushing's disease
+Disorders of sex development or intersex disorders
+Hermaphroditism
+Gonadal dysgenesis
+Androgen insensitivity syndromes
+Hypogonadism 
+Inherited  disorders
+Kallmann syndrome
+Klinefelter syndrome
+Turner syndrome
+Acquired disorders
+Ovarian failure 
+Testicular failure
+Disorders of Puberty
+Delayed puberty
+Precocious puberty
+Menstrual function or fertility disorders
+Amenorrhea
+Polycystic ovary syndrome
+Multiple endocrine neoplasia
+MEN type 1
+MEN type 2a
+MEN type 2b
+Carcinoid syndrome
+Autoimmune polyendocrine syndromes
+Incidentaloma - an unexpected finding on diagnostic imaging, often of endocrine glands
+ Ectropion
+ Lagophthalmos
+ Blepharochalasis
+ Ptosis
+ Stye, an acne type infection of the sebaceous glands on or near the eyelid.
+ Xanthelasma of eyelid
+ Parasitic infestation of eyelid in diseases classified elsewhere
+Dermatitis of eyelid due to Demodex species 
+Parasitic infestation of eyelid in:
+leishmaniasis 
+loiasis 
+onchocerciasis 
+phthiriasis 
+ Involvement of eyelid in other infectious diseases classified elsewhere
+Involvement of eyelid in:
+herpesviral 
+leprosy 
+molluscum contagiosum 
+tuberculosis 
+yaws 
+zoster 
+ Involvement of eyelid in other diseases classified elsewhere
+Involvement of eyelid in impetigo 
+ Dacryoadenitis
+ Epiphora
+ Dysthyroid exophthalmos it is shown that if your eye comes out that it will shrink because the optic fluids drain out
+ Conjunctivitis – inflammation of the conjunctiva commonly due to an infection or an allergic reaction
+ Scleritis — a painful inflammation of the sclera
+ Keratitis — inflammation of the cornea
+ Corneal ulcer / Corneal abrasion — loss of the surface epithelial layer of the eye's cornea
+ Snow blindness / Arc eye — a painful condition caused by exposure of unprotected eyes to bright light
+ Thygeson's superficial punctate keratopathy
+ Corneal neovascularization
+ Fuchs' dystrophy — cloudy morning vision
+ Keratoconus — degenerative disease: the cornea thins and changes shape to be more like a cone than a parabole
+ Keratoconjunctivitis sicca — dry eyes
+ Iritis — inflammation of the iris
+ Uveitis — inflammatory process involving the interior of the eye; Sympathetic ophthalmia is a subset.
+ Cataract — the lens becomes opaque
+ Chorioretinal inflammation
+
+ Focal chorioretinal inflammation
+Focal:
+chorioretinitis
+choroiditis
+retinitis
+retinochoroiditis
+ Disseminated chorioretinal inflammation
+Disseminated:
+chorioretinitis
+choroiditis
+retinitis
+retinochoroiditis
+Excludes: exudative retinopathy 
+ Posterior cyclitis
+Pars planitis
+ Other chorioretinal inflammations
+Harada's disease
+ Chorioretinal inflammation, unspecified
+Chorioretinitis
+Choroiditis
+Retinitis
+Retinochoroiditis[1]
+ Other disorders of choroid
+
+ Chorioretinal scars
+Macula scars of posterior pole 
+Solar retinopathy
+ Choroidal degeneration
+Atrophy
+Sclerosis
+Excludes: angioid streaks 
+ Hereditary choroidal dystrophy
+Choroideremia
+Dystrophy, choroidal 
+Gyrate atrophy, choroid
+Excludes: ornithinaemia 
+ Choroidal haemorrhage and rupture
+Choroidal haemorrhage:
+NOS 
+expulsive
+ Choroidal detachment
+ Other specified disordes of choroid
+ Disorder of choroid, unspecified [1]
+ Chorioretinal disorders in diseases classified elsewhere
+ Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere
+Chorioretinitis:
+syphilitic, late 
+toxoplasma 
+tuberculosis 
+ Other chorioretinal disorders in diseases classified elsewhere [1]
+ Retinal detachment — the retina detaches from the choroid, leading to blurred and distorted vision
+ Retinoschisis — the retina separates into several layers and may detach
+Retinal artery occlusion
+Retinal vein occlusion
+ Hypertensive retinopathy — burst blood vessels, due to long-term high blood pressure
+ Diabetic retinopathy — damage to the retina caused by complications of diabetes mellitus, which could eventually lead to blindness
+ Retinopathy — general term referring to non-inflammatory damage to the retina
+ Retinopathy of prematurity — scarring and retinal detachment in premature babies
+ Age-related macular degeneration — the photosensitive cells in the macula malfunction and over time cease to work
+ Macular degeneration — loss of central vision, due to macular degeneration
+Bull's Eye Maculopathy
+ Epiretinal membrane — a transparent layer forms and tightens over the retina
+ Peripheral retinal degeneration
+ Hereditary retinal dystrophy
+ Retinitis pigmentosa — genetic disorder; tunnel vision preceded by night-blindness
+ Retinal haemorrhage
+ Separation of retinal layers
+Central serous retinopathy
+Retinal detachment: Detachment of retinal pigment epithelium
+ Other specified retinal disorders
+ Macular edema — distorted central vision, due to a swollen macula
+ Retinal disorder, unspecified [1]
+ Diabetic retinopathy
+ Glaucoma — optic neuropathy
+ Glaucoma suspect — ocular hypertension
+ Primary open-angle glaucoma
+ Primary angle-closure glaucoma
+ Primary Normal tension glaucoma
+ Secondary open-angle glaucoma
+ Secondary angle-closure glaucoma
+ Floaters — shadow-like shapes which appear singly or together with several others in the field of vision
+ Leber's hereditary optic neuropathy — genetic disorder; loss of central vision,.
+ Optic disc drusen — globules progressively calcify in the optic disc, compressing the vascularization and optic nerve fibers
+ — the eyes do not point in the same direction
+ Ophthalmoparesis — the partial or total paralysis of the eye muscles
+ Progressive external ophthaloplegia — weakness of the external eye muscles
+ Esotropia — the tendency for eyes to become cross-eyed
+ Exotropia — the tendency for eyes to look outward
+H52 Disorders of refraction and accommodation
+
+ — distant objects appear blurred
+ Astigmatism — the cornea or the lens of the eye is not perfectly spherical, resulting in different focal points in different planes
+ Anisometropia — the lenses of the two eyes have different focal lengths
+ Presbyopia — a condition that occurs with growing age and results in the inability to focus on close objects
+ Disorders of accommodation
+Internal ophthalmoplegia
+ — poor or blurry vision due to either no transmission or poor transmission of the visual image to the brain
+ Leber's congenital amaurosis — genetic disorder; appears at birth, characterised by sluggish or no pupillary responses
+ — an area impairment of vision surrounded by a field of relatively well-preserved vision. See also Anopsia.
+ Color blindness — the inability to perceive differences between some or all colors that other people can distinguish
+ Achromatopsia / Maskun — a low cone count or lack of function in cone cells
+ — a condition making it difficult or impossible to see in the dark
+ Blindness — the brain does not receive optical information, through various causes
+
+ Micropthalmia/coloboma — a disconnection between the optic nerve and the brain and/or spinal cord
+ Red eye — conjunctiva appears red typically due to illness or injury
+ Argyll Robertson pupil — small, unequal, irregularly shaped pupils
+ Keratomycosis — fungal infection of the cornea
+ Xerophthalmia — dry eyes, caused by vitamin A deficiency
+ Aniridia — a rare congenital eye condition leading to underdevelopment or even absence of the iris of the eye
+Acinetobacter baumannii
+Actinomyces israelii, Actinomyces gerencseriae and Propionibacterium propionicus
+Trypanosoma brucei
+HIV 
+Entamoeba histolytica
+Anaplasma species
+Angiostrongylus
+Anisakis
+Bacillus anthracis
+Arcanobacterium haemolyticum
+Junin virus
+Ascaris lumbricoides
+Aspergillus species
+Astroviridae species
+Babesia species
+Bacillus cereus
+multiple bacteria
+multiple bacteria
+List of bacterial vaginosis microbiota
+Bacteroides species
+Balantidium coli
+Bartonella
+Baylisascaris species
+BK virus
+Piedraia hortae
+Blastocystis species
+Blastomyces dermatitidis
+Machupo virus
+Clostridium botulinum; Note: Botulism is not an infection by Clostridium botulinum but caused by the intake of botulinum toxin.
+Sabiá virus
+Brucella species
+Yersinia pestis
+usually Burkholderia cepacia and other Burkholderia species
+Mycobacterium ulcerans
+Caliciviridae species
+Campylobacter species
+usually Candida albicans and other Candida species
+Intestinal disease by Capillaria philippinensis, hepatic disease by Capillaria hepatica and pulmonary disease by Capillaria aerophila
+Bartonella bacilliformis
+Bartonella henselae
+usually Group A Streptococcus and Staphylococcus
+Trypanosoma cruzi
+Haemophilus ducreyi
+Varicella zoster virus 
+Alphavirus
+Chlamydia trachomatis
+Chlamydophila pneumoniae
+Vibrio cholerae
+usually Fonsecaea pedrosoi
+Batrachochytrium dendrabatidis
+Clonorchis sinensis
+Clostridium difficile
+Coccidioides immitis and Coccidioides posadasii
+Colorado tick fever virus 
+usually rhinoviruses and coronaviruses
+Severe acute respiratory syndrome coronavirus 2 
+PRNP
+Crimean-Congo hemorrhagic fever virus
+Cryptococcus neoformans
+Cryptosporidium species
+usually Ancylostoma braziliense; multiple other parasites
+Cyclospora cayetanensis
+Taenia solium
+Cytomegalovirus
+Dengue viruses  – Flaviviruses
+Green algae Desmodesmus armatus
+Dientamoeba fragilis
+Corynebacterium diphtheriae
+Diphyllobothrium
+Dracunculus medinensis
+Ebolavirus 
+Echinococcus species
+Ehrlichia species
+Enterobius vermicularis
+Enterococcus species
+Enterovirus species
+Rickettsia prowazekii
+Parvovirus B19
+Human herpesvirus 6 
+Fasciola hepatica and Fasciola gigantica
+Fasciolopsis buski
+PRNP
+Filarioidea superfamily
+Clostridium perfringens
+multiple
+Fusobacterium species
+usually Clostridium perfringens; other Clostridium species
+Geotrichum candidum
+PRNP
+Giardia lamblia
+Burkholderia mallei
+Gnathostoma spinigerum and Gnathostoma hispidum
+Neisseria gonorrhoeae
+Klebsiella granulomatis
+Streptococcus pyogenes
+Streptococcus agalactiae
+Haemophilus influenzae
+Enteroviruses, mainly Coxsackie A virus and enterovirus 71 
+Sin Nombre virus
+Heartland virus
+Helicobacter pylori
+Escherichia coli O157:H7, O111 and O104:H4
+Bunyaviridae species
+Hendra virus
+Hepatitis A virus
+Hepatitis B virus
+Hepatitis C virus
+Hepatitis D Virus
+Hepatitis E virus
+Herpes simplex virus 1 and 2 
+Histoplasma capsulatum
+Ancylostoma duodenale and Necator americanus
+Human bocavirus 
+Ehrlichia ewingii
+Anaplasma phagocytophilum
+Human metapneumovirus 
+Ehrlichia chaffeensis
+One of the human papillomaviruses
+Human parainfluenza viruses 
+Hymenolepis nana and Hymenolepis diminuta
+Epstein–Barr virus 
+Orthomyxoviridae species
+Isospora belli
+unknown; evidence supports that it is infectious
+multiple
+Kingella kingae
+PRNP
+Lassa virus
+Legionella pneumophila
+Legionella pneumophila
+Leishmania species
+Mycobacterium leprae and Mycobacterium lepromatosis
+Leptospira species
+Listeria monocytogenes
+Borrelia burgdorferi, Borrelia garinii, and Borrelia afzelii
+Wuchereria bancrofti and Brugia malayi
+Lymphocytic choriomeningitis virus 
+Plasmodium species
+Marburg virus
+Measles virus
+Middle East respiratory syndrome coronavirus
+Burkholderia pseudomallei
+multiple
+Neisseria meningitidis
+usually Metagonimus yokagawai
+Microsporidia phylum
+Molluscum contagiosum virus 
+Monkeypox virus
+Mumps virus
+Rickettsia typhi
+Mycoplasma pneumoniae
+Mycoplasma genitalium
+numerous species of bacteria 
+parasitic dipterous fly larvae
+most commonly Chlamydia trachomatis and Neisseria gonorrhoeae
+Nipah virus
+Norovirus
+PRNP
+usually Nocardia asteroides and other Nocardia species
+Onchocerca volvulus
+Opisthorchis viverrini and Opisthorchis felineus
+Paracoccidioides brasiliensis
+usually Paragonimus westermani and other Paragonimus species
+Pasteurella species
+Pediculus humanus capitis
+Pediculus humanus corporis
+Pthirus pubis
+multiple
+Bordetella pertussis
+Yersinia pestis
+Streptococcus pneumoniae
+Pneumocystis jirovecii
+multiple
+Poliovirus
+Prevotella species
+usually Naegleria fowleri
+JC virus
+Chlamydophila psittaci
+Coxiella burnetii
+Rabies virus
+Borrelia hermsii, Borrelia recurrentis, and other Borrelia species
+Respiratory syncytial virus 
+Rhinosporidium seeberi
+Rhinovirus
+Rickettsia species
+Rickettsia akari
+Rift Valley fever virus
+Rickettsia rickettsii
+Rotavirus
+Rubella virus
+Salmonella species
+SARS coronavirus
+Sarcoptes scabiei
+Group A Streptococcus species
+Schistosoma species
+multiple
+Shigella species
+Varicella zoster virus 
+Variola major or Variola minor
+Sporothrix schenckii
+Staphylococcus species
+Staphylococcus species
+Strongyloides stercoralis
+Measles virus
+Treponema pallidum
+Taenia species
+Clostridium tetani
+usually Trichophyton species
+usually Trichophyton tonsurans
+usually Trichophyton species
+usually Epidermophyton floccosum, Trichophyton rubrum, and Trichophyton mentagrophytes
+Trichophyton rubrum
+usually Hortaea werneckii
+usually Trichophyton species
+usually Trichophyton species
+Malassezia species
+Staphylococcus aureus or Streptococcus pyogenes
+Toxocara canis or Toxocara cati
+Toxocara canis or Toxocara cati
+Toxoplasma gondii
+Chlamydia trachomatis
+Trichinella spiralis
+Trichomonas vaginalis
+Trichuris trichiura
+usually Mycobacterium tuberculosis
+Francisella tularensis
+Salmonella enterica subsp. enterica, serovar typhi
+Rickettsia
+Ureaplasma urealyticum
+Coccidioides immitis or Coccidioides posadasii.[1]
+Venezuelan equine encephalitis virus
+Guanarito virus
+Vibrio vulnificus
+Vibrio parahaemolyticus
+multiple viruses
+West Nile virus
+Trichosporon beigelii
+Yersinia pseudotuberculosis
+Yersinia enterocolitica
+Yellow fever virus
+Zeaspora fungus
+Zika virus
+Mucorales order 
+Acinetobacter infections
+Actinomycosis
+African sleeping sickness 
+AIDS 
+Amoebiasis
+Anaplasmosis
+Angiostrongyliasis
+Anisakiasis
+Anthrax
+Arcanobacterium haemolyticum infection
+Argentine hemorrhagic fever
+Ascariasis
+Aspergillosis
+Astrovirus infection
+Babesiosis
+Bacillus cereus infection
+Bacterial meningitis
+Bacterial pneumonia
+Bacterial vaginosis
+Bacteroides infection
+Balantidiasis
+Bartonellosis
+Baylisascaris infection
+BK virus infection
+Black piedra
+Blastocystosis
+Blastomycosis
+Bolivian hemorrhagic fever
+Botulism 
+Brazilian hemorrhagic fever
+Brucellosis
+Bubonic plague
+Burkholderia infection
+Buruli ulcer
+Calicivirus infection 
+Campylobacteriosis
+Candidiasis 
+Capillariasis
+Carrion's disease
+Cat-scratch disease
+Cellulitis
+Chagas disease 
+Chancroid
+Chickenpox
+Chikungunya
+Chlamydia
+Chlamydophila pneumoniae infection 
+Cholera
+Chromoblastomycosis
+Chytridiomycosis
+Clonorchiasis
+Clostridium difficile colitis
+Coccidioidomycosis
+Colorado tick fever 
+Common cold 
+Coronavirus disease 2019 
+Creutzfeldt–Jakob disease 
+Crimean-Congo hemorrhagic fever 
+Cryptococcosis
+Cryptosporidiosis
+Cutaneous larva migrans 
+Cyclosporiasis
+Cysticercosis
+Cytomegalovirus infection
+Dengue fever
+Desmodesmus infection
+Dientamoebiasis
+Diphtheria
+Diphyllobothriasis
+Dracunculiasis
+Ebola hemorrhagic fever
+Echinococcosis
+Ehrlichiosis
+Enterobiasis 
+Enterococcus infection
+Enterovirus infection
+Epidemic typhus
+Erythema infectiosum 
+Exanthem subitum 
+Fasciolasis
+Fasciolopsiasis
+Fatal familial insomnia 
+Filariasis
+Food poisoning by Clostridium perfringens
+Free-living amebic infection
+Fusobacterium infection
+Gas gangrene 
+Geotrichosis
+Gerstmann-Sträussler-Scheinker syndrome 
+Giardiasis
+Glanders
+Gnathostomiasis
+Gonorrhea
+Granuloma inguinale 
+Group A streptococcal infection
+Group B streptococcal infection
+Haemophilus influenzae infection
+Hand, foot and mouth disease 
+Hantavirus Pulmonary Syndrome 
+Heartland virus disease
+Helicobacter pylori infection
+Hemolytic-uremic syndrome 
+Hemorrhagic fever with renal syndrome 
+Hendra virus infection
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Herpes simplex
+Histoplasmosis
+Hookworm infection
+Human bocavirus infection
+Human ewingii ehrlichiosis
+Human granulocytic anaplasmosis 
+Human metapneumovirus infection
+Human monocytic ehrlichiosis
+Human papillomavirus  infection
+Human parainfluenza virus infection
+Hymenolepiasis
+Epstein–Barr virus infectious mononucleosis 
+Influenza 
+Isosporiasis
+Kawasaki disease
+Keratitis
+Kingella kingae infection
+Kuru
+Lassa fever
+Legionellosis 
+Pontiac fever
+Leishmaniasis
+Leprosy
+Leptospirosis
+Listeriosis
+Lyme disease 
+Lymphatic filariasis 
+Lymphocytic choriomeningitis
+Malaria
+Marburg hemorrhagic fever 
+Measles
+Middle East respiratory syndrome 
+Melioidosis 
+Meningitis
+Meningococcal disease
+Metagonimiasis
+Microsporidiosis
+Molluscum contagiosum 
+Monkeypox
+Mumps
+Murine typhus 
+Mycoplasma pneumonia
+Mycoplasma genitalium infection
+Mycetoma
+Myiasis
+Neonatal conjunctivitis 
+Nipah virus infection
+Norovirus
+
+Nocardiosis
+Onchocerciasis 
+Opisthorchiasis
+Paracoccidioidomycosis 
+Paragonimiasis
+Pasteurellosis
+Pediculosis capitis 
+Pediculosis corporis 
+Pediculosis pubis 
+Pelvic inflammatory disease 
+Pertussis 
+Plague
+Pneumococcal infection
+Pneumocystis pneumonia 
+Pneumonia
+Poliomyelitis
+Prevotella infection
+Primary amoebic meningoencephalitis 
+Progressive multifocal leukoencephalopathy
+Psittacosis
+Q fever
+Rabies
+Relapsing fever
+Respiratory syncytial virus infection
+Rhinosporidiosis
+Rhinovirus infection
+Rickettsial infection
+Rickettsialpox
+Rift Valley fever 
+Rocky Mountain spotted fever 
+Rotavirus infection
+Rubella
+Salmonellosis
+Severe acute respiratory syndrome 
+Scabies
+Scarlet fever
+Schistosomiasis
+Sepsis
+Shigellosis 
+Shingles 
+Smallpox 
+Sporotrichosis
+Staphylococcal food poisoning
+Staphylococcal infection
+Strongyloidiasis
+Subacute sclerosing panencephalitis
+Bejel, Syphilis, and Yaws
+Taeniasis
+Tetanus 
+Tinea barbae 
+Tinea capitis 
+Tinea corporis 
+Tinea cruris 
+Tinea manum 
+Tinea nigra
+Tinea pedis 
+Tinea unguium 
+Tinea versicolor 
+Toxic shock syndrome 
+Toxocariasis 
+Toxocariasis 
+Toxoplasmosis
+Trachoma
+Trichinosis
+Trichomoniasis
+Trichuriasis 
+Tuberculosis
+Tularemia
+Typhoid fever
+Typhus fever
+Ureaplasma urealyticum infection
+Valley fever
+Venezuelan equine encephalitis
+Venezuelan hemorrhagic fever
+Vibrio vulnificus infection
+Vibrio parahaemolyticus enteritis
+Viral pneumonia
+West Nile fever
+White piedra 
+Yersinia pseudotuberculosis infection
+Yersiniosis
+Yellow fever
+Zeaspora
+Zika fever
+Zygomycosis

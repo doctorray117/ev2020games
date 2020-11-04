@@ -41,8 +41,13 @@ https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_i
 5. President who died in office → Disease
 
 https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+https://en.wikipedia.org/wiki/Lists_of_diseases
 
 6. U.S. political party (any, and including the word 'party') → "Star Wars" planet, character, or race
+
+https://en.wikipedia.org/wiki/List_of_political_parties_in_the_United_States
+https://starwars.fandom.com/wiki/List_of_planets
+https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
 
 7. Politician who played college sports → Professional sports team (city and mascot, or just mascot)
 
