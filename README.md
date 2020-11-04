@@ -11,7 +11,7 @@ The code isn't written to be super pretty, probably imports stuff it doesn't nee
 
 ## Inputs
 
-Create a sourcefile and a dictionaryfile that contain all lowercase versions of the words to compare, without spaces or special characters.  Doing this is beyond the scope of the readme, but really contains a little find and replace in notepad, and some tolower() in awk, with some sed sprinkled in here and there.
+Create a sourcefile and a dictionaryfile that contain all the words or phrases to compare.  The program will remove any special characters, though you may consider replacing any non-English letters to their English equivalents as those would otherwise be removed.
 
 ## Usage
 
@@ -56,12 +56,13 @@ https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
 
 8. Person who served as Secretary of the Treasury → World currency (current or past)
 
-https://home.treasury.gov/about/history/prior-secretaries
+https://home.treasury.gov/about/history/prior-secretaries -- site was down on election day... isitdns.com
 https://en.wikipedia.org/wiki/List_of_currencies
 
 9. Any living politician → Palindrome
 
 There's a lot of politicians out there, so this should be filled out more.
+
 https://github.com/unitedstates/congress-legislators -- current legislators
 https://en.wiktionary.org/wiki/Appendix:English_palindromes
 

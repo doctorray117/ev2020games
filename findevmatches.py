@@ -1,7 +1,12 @@
 #!/usr/bin/python3
 
-import random, argparse, logging, sys, re
-sysrand = random.SystemRandom()
+## findevmatches.py
+##
+## Notes:
+## re.sub(r'[^a-zA-Z]','' appears a bunch, this is simply removing anything non-alpha from the string.
+## When needed, .lower is added to make the comparisons all lower case.
+
+import argparse, logging, re
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 parser = argparse.ArgumentParser(description='Anagram solver for ElectoralVote2020.')
@@ -28,7 +33,6 @@ def getpoints(length):
     count += 1
   return sum(points)
 
-
 def anagram(sourceword, dictionaryword):
   sourcearray = tuple(re.sub(r'[^a-zA-Z]','',sourceword.lower()));
   dictarray = list(re.sub(r'[^a-zA-Z]','',dictionaryword.lower()));
@@ -48,7 +52,7 @@ for sourceword in source:
     if anagram(sourceword, dictionaryword):
       results.append([sourceword, dictionaryword])
 
-#print (results)
+logging.debug(results)
 
 ## find the length of the longest dictionary word (in cases of multiple matches)
 maxlength = 0
