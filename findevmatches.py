@@ -54,9 +54,9 @@ for sourceword in source:
 maxlength = 0
 for i in range(0,len(results)):
   if len(results[i][1]) > maxlength:
-    maxlength = len(results[i][1])
+    maxlength = len(re.sub(r'[^a-zA-Z]','',results[i][1]))
 
 ## now print all items that match this length
 for i in range(0,len(results)):
-  if len(results[i][1]) == maxlength:
-    print (str(results[i]) + " " + str(getpoints(len(results[i][1]))) + " points")
+  if len(re.sub(r'[^a-zA-Z]','',results[i][1])) == maxlength:
+    print (str(results[i]) + " " + str(getpoints(len(re.sub(r'[^a-zA-Z]','',results[i][1])))) + " points")
