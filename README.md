@@ -20,14 +20,34 @@ Create a sourcefile and a dictionaryfile that contain all lowercase versions of 
 ## sources gathered so far:
 
 1. Current member of Congress → Academy Award-winning film
+
 https://github.com/unitedstates/congress-legislators
 https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
 
 2. Political slogan used by any U.S. candidate → Periodic table element
+
 https://en.wikipedia.org/wiki/List_of_U.S._presidential_campaign_slogans
 https://gist.githubusercontent.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee/raw/1d92663004489a5b6926e944c1b3d9ec5c40900e/Periodic%2520Table%2520of%2520Elements.csv
 
 3. Democratic nominee for president (winner or loser) → Beatles song title
+
 http://beatlesbible.com/songs/
 https://en.wikipedia.org/wiki/List_of_United_States_Democratic_Party_presidential_tickets
 
+4. Republican nominee for president (winner or loser) → Religious figure (living or dead, any religion)
+
+https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+
+5. President who died in office → Disease
+
+https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+
+6. U.S. political party (any, and including the word 'party') → "Star Wars" planet, character, or race
+
+7. Politician who played college sports → Professional sports team (city and mascot, or just mascot)
+
+8. Person who served as Secretary of the Treasury → World currency (current or past)
+
+9. Any living politician → Palindrome
+
+10. Any dead politician → Shakespeare character
