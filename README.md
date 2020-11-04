@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/List_of_United_States_Democratic_Party_presidentia
 4. Republican nominee for president (winner or loser) → Religious figure (living or dead, any religion)
 
 https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+https://www.wikidata.org/wiki/Wikidata:Lists/List_of_biblical_characters
+https://en.wikipedia.org/wiki/List_of_Catholic_saints
+https://en.wikipedia.org/wiki/List_of_founders_of_religious_traditions
 
 5. President who died in office → Disease
 
@@ -53,6 +56,16 @@ https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
 
 8. Person who served as Secretary of the Treasury → World currency (current or past)
 
+https://home.treasury.gov/about/history/prior-secretaries
+https://en.wikipedia.org/wiki/List_of_currencies
+
 9. Any living politician → Palindrome
 
+There's a lot of politicians out there, so this should be filled out more.
+https://github.com/unitedstates/congress-legislators -- current legislators
+https://en.wiktionary.org/wiki/Appendix:English_palindromes
+
 10. Any dead politician → Shakespeare character
+
+https://github.com/unitedstates/congress-legislators -- historical legislators
+https://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php

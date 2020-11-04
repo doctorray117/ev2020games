@@ -53,7 +53,7 @@ for sourceword in source:
 ## find the length of the longest dictionary word (in cases of multiple matches)
 maxlength = 0
 for i in range(0,len(results)):
-  if len(results[i][1]) > maxlength:
+  if len(re.sub(r'[^a-zA-Z]','',results[i][1])) > maxlength:
     maxlength = len(re.sub(r'[^a-zA-Z]','',results[i][1]))
 
 ## now print all items that match this length
