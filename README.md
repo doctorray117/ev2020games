@@ -1,6 +1,10 @@
 # ev2020games
 Anagram comparison from two word lists, based on the game directive at https://www.electoral-vote.com/evp2020/Pres/Maps/Nov03.html#item-7
 
+## What does it do
+
+This code takes a word or phrase in the first list (source) to see if any number of characters could be rearranged to create a word in the second list (dictionary).  Think of it as a simple anagram solver where the source word is a pool of letters used to create a matching word in the corresponding dictionary.  Words are scored by length using Zenger's modified fibonacci sequence and printed alongside the results.
+
 ## How it works
 
 To determine if a letters from a word in the source can be found in the dictionary, mark off the first letter in the dictionary word that appears when testing each of the letters in the source word.  If you've marked off all the letters in the dictionary word, you have a match.
@@ -11,11 +15,11 @@ The code isn't written to be super pretty, probably imports stuff it doesn't nee
 
 ## Inputs
 
-Create a sourcefile and a dictionaryfile that contain all the words or phrases to compare.  The program will remove any special characters, though you may consider replacing any non-English letters to their English equivalents as those would otherwise be removed.
+Create a sourcefile and a dictionaryfile that contain all the words or phrases to compare.  The program will remove any special characters, though you may consider replacing any non-English letters to their English equivalents as those would otherwise be removed.  Everything on the line will be considered, so if downloading CSV's please strip out the unnecessary columns in excel/whatever first.
 
 ## Usage
 
-./findevmatches.py -s source/congress.txt -d source/oscars.txt
+./findevmatches.py -s source/quiz01/legislatures-current.txt -d source/quiz01/oscars.txt
 
 ## sources gathered so far:
 
