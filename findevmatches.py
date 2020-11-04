@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import random, argparse, logging, sys
+import random, argparse, logging, sys, re
 sysrand = random.SystemRandom()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -28,9 +28,10 @@ def getpoints(length):
     count += 1
   return sum(points)
 
+
 def anagram(sourceword, dictionaryword):
-  sourcearray = tuple(sourceword);
-  dictarray = list(dictionaryword);
+  sourcearray = tuple(re.sub(r'[^a-zA-Z]','',sourceword.lower()));
+  dictarray = list(re.sub(r'[^a-zA-Z]','',dictionaryword.lower()));
   for letter in sourcearray:
     for i in range(len(dictarray)):
       if dictarray[i] == letter:
