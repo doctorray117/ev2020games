@@ -1,0 +1,764 @@
+Atlanta Braves
+Miami Marlins
+New York Mets
+Philadelphia Phillies
+Washington Nationals
+Chicago Cubs
+Cincinnati Reds
+Milwaukee Brewers
+Pittsburgh Pirates
+St. Louis Cardinals
+Arizona Diamondbacks
+Colorado Rockies
+Los Angeles Dodgers
+San Diego Padres
+San Francisco Giants
+Baltimore Orioles
+Boston Red Sox
+New York Yankees
+Tampa Bay Rays
+Toronto Blue Jays
+Chicago White Sox
+Cleveland Indians
+Detroit Tigers
+Kansas City Royals
+Minnesota Twins
+Houston Astros
+Los Angeles Angels
+Oakland Athletics
+Seattle Mariners
+Texas Rangers
+Buffalo Bisons
+Lehigh Valley IronPigs
+Pawtucket Red Sox
+Rochester Red Wings
+Scranton/Wilkes-Barre RailRiders
+Syracuse Mets
+Charlotte Knights
+Durham Bulls
+Gwinnett Stripers
+Norfolk Tides
+Columbus Clippers
+Indianapolis Indians
+Louisville Bats
+Toledo Mud Hens
+Iowa Cubs
+Memphis Redbirds
+Nashville Sounds
+Omaha Storm Chasers
+Oklahoma City Dodgers
+Round Rock Express
+San Antonio Missions
+Wichita Wind Surge
+Fresno Grizzlies
+Reno Aces
+Sacramento River Cats
+Tacoma Rainiers
+Albuquerque Isotopes
+El Paso Chihuahuas
+Las Vegas Aviators
+Salt Lake Bees
+Binghamton Rumble Ponies
+Hartford Yard Goats
+New Hampshire Fisher Cats
+Portland Sea Dogs
+Reading Fightin Phils
+Trenton Thunder
+Akron RubberDucks
+Altoona Curve
+Bowie Baysox
+Erie SeaWolves
+Harrisburg Senators
+Richmond Flying Squirrels
+Birmingham Barons
+Chattanooga Lookouts
+Jackson Generals
+Rocket City Trash Pandas
+Tennessee Smokies
+Biloxi Shuckers
+Jacksonville Jumbo Shrimp
+Mississippi Braves
+Montgomery Biscuits
+Pensacola Blue Wahoos
+Arkansas Travelers
+Northwest Arkansas Naturals
+Springfield Cardinals
+Tulsa Drillers
+Amarillo Sod Poodles
+Corpus Christi Hooks
+Frisco RoughRiders
+Midland RockHounds
+Modesto Nuts
+San Jose Giants
+Stockton Ports
+Visalia Rawhide
+Inland Empire 66ers
+Lake Elsinore Storm
+Lancaster JetHawks
+Rancho Cucamonga Quakes
+Carolina League
+Frederick Keys
+Fredericksburg Nationals
+Lynchburg Hillcats
+Salem Red Sox
+Wilmington Blue Rocks
+Carolina Mudcats
+Down East Wood Ducks
+Fayetteville Woodpeckers
+Myrtle Beach Pelicans
+Winston-Salem Dash
+Florida State League
+Clearwater Threshers
+Daytona Tortugas
+Dunedin Blue Jays
+Florida Fire Frogs
+Lakeland Flying Tigers
+Tampa Tarpons
+Bradenton Marauders
+Charlotte Stone Crabs
+Fort Myers Mighty Mussels
+Jupiter Hammerheads
+Palm Beach Cardinals
+St. Lucie Mets
+Bowling Green Hot Rods
+Dayton Dragons
+Fort Wayne TinCaps
+Great Lakes Loons
+Lake County Captains
+Lansing Lugnuts
+South Bend Cubs
+West Michigan Whitecaps
+Beloit Snappers
+Burlington Bees
+Cedar Rapids Kernels
+Clinton LumberKings
+Kane County Cougars
+Peoria Chiefs
+Quad Cities River Bandits
+Wisconsin Timber Rattlers
+Delmarva Shorebirds
+Greensboro Grasshoppers
+Hagerstown Suns
+Hickory Crawdads
+Kannapolis Cannon Ballers
+Lakewood BlueClaws
+West Virginia Power
+Asheville Tourists
+Augusta GreenJackets
+Charleston RiverDogs
+Columbia Fireflies
+Greenville Drive
+Lexington Legends
+Rome Braves
+Aberdeen IronBirds
+Brooklyn Cyclones
+Hudson Valley Renegades
+Staten Island Yankees
+Auburn Doubledays
+Batavia Muckdogs
+Mahoning Valley Scrappers
+State College Spikes
+West Virginia Black Bears
+Williamsport Crosscutters
+Lowell Spinners
+Norwich Sea Unicorns
+Tri-City ValleyCats
+Vermont Lake Monsters
+Everett AquaSox
+Spokane Indians
+Tri-City Dust Devils
+Vancouver Canadians
+Boise Hawks
+Eugene Emeralds
+Hillsboro Hops
+Salem-Keizer Volcanoes
+Appalachian League
+Bluefield Blue Jays
+Bluefield, Virginia
+Burlington Royals
+Danville Braves
+Princeton Rays
+Pulaski Yankees
+Bristol Pirates
+Elizabethton Twins
+Greeneville Astros
+Johnson City Cardinals
+Kingsport Mets
+Billings Mustangs
+Great Falls Voyagers
+Idaho Falls Chukars
+Missoula Osprey
+Grand Junction Rockies
+Ogden Raptors
+Orem Owlz
+Rocky Mountain Vibes
+Chicago Dogs
+Fargo-Moorhead RedHawks
+Gary SouthShore RailCats
+Milwaukee Milkmen
+St. Paul Saints
+Winnipeg Goldeyes
+Cleburne Railroaders
+Kansas City T-Bones
+Lincoln Saltdogs
+Sioux City Explorers
+Sioux Falls Canaries
+Texas AirHogs
+Lancaster Barnstormers
+Southern Maryland Blue Crabs
+Sugar Land Skeeters
+York Revolution
+High Point Rockers
+Long Island Ducks
+Pennsylvania Road Warriors
+Somerset Patriots
+Lake Erie Crushers
+New Jersey Jackals
+Québec Capitales
+Rockland Boulders
+Sussex County Miners
+Trois-Rivières Aigles
+Washington Wild Things
+Midwestern
+Florence Y'alls
+Gateway Grizzlies
+Joliet Slammers
+Schaumburg Boomers
+Southern Illinois Miners
+Windy City ThunderBolts
+Napa Silverados
+Sonoma Stompers
+Vallejo Admirals
+Alpine Cowboys
+Garden City Wind
+Roswell Invaders
+Santa Fe Fuego
+Trinidad Triggers
+Tucson Saguaros
+Bakersfield Train Robbers
+Martinez Sturgeon
+Monterey Amberjacks
+San Rafael Pacifics
+Santa Cruz Seaweed
+Wasco Reserve
+Boston Celtics
+Brooklyn Nets
+New York Knicks
+Philadelphia 76ers
+Toronto Raptors
+Chicago Bulls
+Cleveland Cavaliers
+Detroit Pistons
+Indiana Pacers
+Milwaukee Bucks
+Atlanta Hawks
+Charlotte Hornets
+Miami Heat
+Orlando Magic
+Washington Wizards
+Northwest
+Minnesota Timberwolves
+Oklahoma City Thunder
+Portland Trail Blazers
+Utah Jazz
+Golden State Warriors
+Los Angeles Clippers
+Los Angeles Lakers
+Phoenix Suns
+Sacramento Kings
+Dallas Mavericks
+Houston Rockets
+Memphis Grizzlies
+New Orleans Pelicans
+San Antonio Spurs
+Edmonton Stingers
+Fraser Valley Bandits
+Guelph Nighthawks
+Hamilton Honey Badgers
+Niagara River Lions
+Ottawa Blackjacks
+Saskatchewan Rattlers
+KW Titans
+London Lightning
+Sudbury Five
+Windsor Express
+Atlantic
+Island Storm
+Moncton Magic
+St. John's Edge
+Delaware Blue Coats
+Long Island Nets
+Maine Red Claws
+Raptors 905
+Westchester Knicks
+Canton Charge
+Fort Wayne Mad Ants
+Grand Rapids Drive
+Windy City Bulls
+Wisconsin Herd
+Capital City Go-Go
+College Park Skyhawks
+Erie BayHawks[a]
+Greensboro Swarm
+Lakeland Magic
+Iowa Wolves
+Memphis Hustle
+Oklahoma City Blue
+Sioux Falls Skyforce
+Austin Spurs
+Rio Grande Valley Vipers
+Salt Lake City Stars
+Texas Legends
+Agua Caliente Clippers
+Northern Arizona Suns
+Santa Cruz Warriors
+South Bay Lakers
+Stockton Kings
+Atlanta Dream
+Chicago Sky
+Connecticut Sun
+Indiana Fever
+New York Liberty
+Washington Mystics
+Dallas Wings
+Las Vegas Aces
+Los Angeles Sparks
+Minnesota Lynx
+Phoenix Mercury
+Seattle Storm
+Buffalo Bills
+Miami Dolphins
+New England Patriots
+New York Jets
+Baltimore Ravens
+Cincinnati Bengals
+Cleveland Browns
+Pittsburgh Steelers
+Houston Texans
+Indianapolis Colts
+Jacksonville Jaguars
+Tennessee Titans
+Denver Broncos
+Kansas City Chiefs
+Las Vegas Raiders
+Los Angeles Chargers
+Dallas Cowboys
+New York Giants
+Philadelphia Eagles
+Washington Football Team
+Chicago Bears
+Detroit Lions
+Green Bay Packers
+Minnesota Vikings
+Atlanta Falcons
+Carolina Panthers
+New Orleans Saints
+Tampa Bay Buccaneers
+Arizona Cardinals
+Los Angeles Rams
+San Francisco 49ers
+Seattle Seahawks
+Hamilton Tiger-Cats
+Montreal Alouettes
+Ottawa Redblacks
+Toronto Argonauts
+BC Lions
+Calgary Stampeders
+Edmonton Football Team
+Saskatchewan Roughriders
+Winnipeg Blue Bombers
+Arizona Rattlers
+Bismarck Bucks
+Cedar Rapids River Kings
+Duke City Gladiators
+Frisco Fighters
+Green Bay Blizzard
+Iowa Barnstormers
+Louisville Xtreme
+Massachusetts Pirates
+Northern Arizona Wranglers
+Quad City Steamwheelers
+San Diego Strike Force
+Sioux Falls Storm
+Spokane Shock
+Tucson Sugar Skulls
+Omaha Beef
+Salina Liberty
+Sioux City Bandits
+Wichita Force
+Amarillo Venom
+Oklahoma Flying Aces
+West Texas Warbirds
+Albany Empire
+Carolina Cobras
+Columbus Lions
+Jacksonville Sharks
+Jersey Flight
+Orlando Predators
+Carolina Cowboyz
+Carolina Predators
+Charlotte Thunder
+Central Penn Chargers
+Indianapolis Enforcers
+Jersey Bearcats
+Maryland Eagles
+Music City Fire
+Pennsylvania Union
+Reading Raptors
+South Florida Thunder
+West Michigan Ironmen
+Western Maryland Warriors
+Idaho Horsemen
+Wenatchee Valley Skyhawks
+Yakima Canines
+Atlanta Empire
+Chicago Blitz
+Kansas City Force
+Omaha Red Devils
+Austin Sound
+Denver Rush
+Los Angeles Black Storm
+Seattle Thunder
+Carolina Hurricanes
+Columbus Blue Jackets
+New Jersey Devils
+New York Islanders
+New York Rangers
+Philadelphia Flyers
+Pittsburgh Penguins
+Washington Capitals
+Boston Bruins
+Buffalo Sabres
+Detroit Red Wings
+Florida Panthers
+Montreal Canadiens
+Ottawa Senators
+Tampa Bay Lightning
+Toronto Maple Leafs
+Chicago Blackhawks
+Colorado Avalanche
+Dallas Stars
+Minnesota Wild
+Nashville Predators
+St. Louis Blues
+Winnipeg Jets
+Anaheim Ducks
+Arizona Coyotes
+Calgary Flames
+Edmonton Oilers
+Los Angeles Kings
+San Jose Sharks
+Vancouver Canucks
+Vegas Golden Knights
+Bridgeport Sound Tigers
+Charlotte Checkers
+Hartford Wolf Pack
+Hershey Bears
+Lehigh Valley Phantoms
+Providence Bruins
+Springfield Thunderbirds
+Wilkes-Barre/Scranton Penguins
+Belleville Senators
+Binghamton Devils
+Cleveland Monsters
+Laval Rocket
+Rochester Americans
+Syracuse Crunch
+Toronto Marlies
+Utica Comets
+Chicago Wolves
+Grand Rapids Griffins
+Iowa Wild
+Manitoba Moose
+Milwaukee Admirals
+Rockford IceHogs
+Texas Stars
+Bakersfield Condors
+Colorado Eagles
+Henderson Silver Knights
+Ontario Reign
+San Diego Gulls
+San Jose Barracuda
+Stockton Heat
+Tucson Roadrunners
+Adirondack Thunder
+Brampton Beast
+Maine Mariners
+Newfoundland Growlers
+Reading Royals
+Worcester Railers
+Atlanta Gladiators
+Florida Everblades
+Greenville Swamp Rabbits
+Jacksonville Icemen
+Norfolk Admirals
+Orlando Solar Bears
+South Carolina Stingrays
+Cincinnati Cyclones
+Fort Wayne Komets
+Indy Fuel
+Kalamazoo Wings
+Toledo Walleye
+Wheeling Nailers
+Allen Americans
+Idaho Steelheads
+Kansas City Mavericks
+Rapid City Rush
+Tulsa Oilers
+Utah Grizzlies
+Wichita Thunder
+Birmingham Bulls
+Huntsville Havoc
+Knoxville Ice Bears
+Macon Mayhem
+Pensacola Ice Flyers
+Danbury Hat Tricks
+Elmira Enforcers
+Mentor Ice Breakers
+Watertown Wolves
+Western
+Columbus River Dragons
+Danville Dashers
+Port Huron Prowlers
+Ligue Nord-Américaine de Hockey
+Jonquière Marquis
+Les Pétroliers du Nord
+Rivière-du-Loup 3L
+Saint-Georges Cool FM 103.5
+Sorel-Tracy Éperviers
+Thetford Assurancia
+Boston Pride
+Buffalo Beauts
+Connecticut Whale
+Metropolitan Riveters
+Minnesota Whitecaps
+Toronto Six
+Buffalo Bandits
+Halifax Thunderbirds
+Rochester Knighthawks
+Toronto Rock
+Georgia Swarm
+New England Black Wolves
+New York Riptide
+Philadelphia Wings
+Calgary Roughnecks
+Colorado Mammoth
+San Diego Seals
+Saskatchewan Rush
+Vancouver Warriors
+Boston Cannons
+Chesapeake Bayhawks
+Connecticut Hammerheads
+Denver Outlaws
+New York Lizards
+Philadelphia Barrage
+Archers Lacrosse Club
+Atlas Lacrosse Club
+Chaos Lacrosse Club
+Chrome Lacrosse Club
+Redwoods Lacrosse Club
+Waterdogs Lacrosse Club
+Whipsnakes Lacrosse Club
+Toronto Wolfpack
+Boston Thirteens
+Brooklyn Kings
+Delaware Black Foxes
+Lakeland Renegades
+New York Knights
+Northern Virginia Eagles
+Philadelphia Fight
+White Plains Wombats
+Atlanta Rhinos
+Jacksonville Axemen
+Southwest Florida Copperheads
+Tampa Mayhem
+New England Free Jacks
+New Orleans Gold
+Old Glory DC
+Rugby United New York
+Rugby ATL
+Toronto Arrows
+Austin Gilgronis
+Colorado Raptors
+Houston SaberCats
+San Diego Legion
+Seattle Seawolves
+Utah Warriors
+Atlanta United FC
+Chicago Fire FC
+Columbus Crew SC
+D.C. United
+FC Cincinnati
+Inter Miami CF
+Montreal Impact
+New England Revolution
+New York City FC
+New York Red Bulls
+Orlando City SC
+Philadelphia Union
+Toronto FC
+Colorado Rapids
+FC Dallas
+Houston Dynamo
+LA Galaxy
+Los Angeles FC
+Minnesota United FC
+Nashville SC
+Portland Timbers
+Real Salt Lake
+San Jose Earthquakes
+Seattle Sounders FC
+Sporting Kansas City
+Vancouver Whitecaps FC
+Atlético Ottawa
+Cavalry FC
+FC Edmonton
+Forge FC
+HFX Wanderers FC
+Pacific FC
+Valour FC
+York9 FC
+Atlanta United 2
+Birmingham Legion FC
+Charleston Battery
+Charlotte Independence
+Hartford Athletic
+Indy Eleven
+Loudoun United FC
+Louisville City FC
+Memphis 901 FC
+Miami FC
+New York Red Bulls II
+North Carolina FC
+Pittsburgh Riverhounds SC
+Sporting Kansas City II
+Tampa Bay Rowdies
+Austin Bold FC
+Colorado Springs Switchbacks FC
+El Paso Locomotive FC
+LA Galaxy II
+Las Vegas Lights FC
+New Mexico United
+Oakland Roots SC
+Oklahoma City Energy FC
+Orange County SC
+Phoenix Rising FC
+Real Monarchs
+Rio Grande Valley FC Toros
+Sacramento Republic FC[b]
+San Antonio FC
+San Diego Loyal SC
+Tacoma Defiance
+FC Tulsa
+Chattanooga Red Wolves SC
+Fort Lauderdale CF
+Forward Madison FC
+Greenville Triumph SC
+New England Revolution II
+North Texas SC
+Richmond Kickers
+Rochester Rhinos
+Tormenta FC
+Toronto FC II
+FC Tucson
+Union Omaha
+Chicago Red Stars
+Houston Dash
+North Carolina Courage
+OL Reign
+Orlando Pride
+Portland Thorns FC
+Racing Louisville FC
+Sky Blue FC
+Utah Royals FC
+Washington Spirit
+Washington, D.C.
+Baltimore Blast
+Florida Tropics SC
+Harrisburg Heat
+Kansas City Comets
+Milwaukee Wave
+Orlando SeaWolves
+Rochester Lancers
+St. Louis Ambush
+Utica City FC
+Western
+Mesquite Outlaws
+Monterrey Flash
+Ontario Fury
+San Diego Sockers
+Sonora Suns
+Tacoma Stars
+Turlock Cal Express
+Softball
+National Pro Fastpitch
+Aussie Peppers
+California Commotion
+Canadian Wild
+Chicago Bandits
+Cleveland Comets
+Chicago Smash
+New York Empire
+Orange County Breakers
+Orlando Storm
+Philadelphia Freedoms
+San Diego Aviators
+Springfield Lasers
+Vegas Rollers
+Washington Kastles
+Atlanta Hustle
+DC Breeze
+Philadelphia Phoenix
+Pittsburgh Thunderbirds
+Raleigh Flyers
+Tampa Bay Cannons
+Chicago Wildfire
+Detroit Mechanix
+Indianapolis AlleyCats
+Madison Radicals
+Minnesota Wind Chill
+Boston Glory
+Montreal Royal
+New York Empire
+Ottawa Outlaws
+Toronto Rush
+Austin Sol
+Dallas Roughnecks
+Los Angeles Aviators
+San Diego Growlers
+San Jose Spiders
+Seattle Cascades
+Atlanta Soul
+Austin Torch
+Indy Red
+Medellin Revolution
+Milwaukee Monarchs
+Minnesota Strike
+Columbus Pride
+NY Gridlock
+Nashville Nightshade
+Portland Rising
+Raleigh Radiance
+Washington DC Shadow
+Team Penske
+Stewart-Haas Racing
+Joe Gibbs Racing
+Hendrick Motorsports
+Chip Ganassi Racing
+Richard Childress Racing
+Wood Brothers Racing
+Roush-Fenway Racing
+Front Row Motorsports
+JTG Daugherty Racing
+Richard Petty Motorsports
+Leavine Family Racing
+Germain Racing
+Go Fas Racing
+Rick Ware Racing
+Gaunt Brothers Racing
+Spire Motorsports
+StarCom Racing
+Motorsports Business Management
+Petty Ware Racing
+Beard Motorsports
+B.J. McLeod Motorsports
