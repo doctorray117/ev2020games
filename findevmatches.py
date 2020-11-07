@@ -14,6 +14,7 @@ parser.add_argument("--sourcefile", "-s", type=str, help="Source file for search
 parser.add_argument("--dictionary", "-d", type=str, help="Dictionary file (Category 2)")
 args = parser.parse_args()
 
+## open text files for reading
 sourcefile = open(args.sourcefile,'r')
 source = sourcefile.read().splitlines()
 dictionaryfile = open(args.dictionary,'r')
@@ -33,6 +34,7 @@ def getpoints(length):
     count += 1
   return sum(points)
 
+## determine if the sourceword component letters can be made into an anagram of dictionaryword
 def anagram(sourceword, dictionaryword):
   sourcearray = tuple(re.sub(r'[^a-zA-Z]','',sourceword.lower()));
   dictarray = list(re.sub(r'[^a-zA-Z]','',dictionaryword.lower()));
@@ -45,13 +47,16 @@ def anagram(sourceword, dictionaryword):
     return True
   return False
 
-## iterate through dictionary
+## main
+## for each phrase in the source list, check it against every phrase in the dictionary list
+## store the anagrams in the results list
 results = []
 for sourceword in source:
   for dictionaryword in dictionary:
     if anagram(sourceword, dictionaryword):
       results.append([sourceword, dictionaryword])
 
+## log all results if in debug
 logging.debug(results)
 
 ## find the length of the longest dictionary word (in cases of multiple matches)
@@ -60,7 +65,7 @@ for i in range(0,len(results)):
   if len(re.sub(r'[^a-zA-Z]','',results[i][1])) > maxlength:
     maxlength = len(re.sub(r'[^a-zA-Z]','',results[i][1]))
 
-## now print all items that match this length
+## now print all items that match this length with their point values
 for i in range(0,len(results)):
   if len(re.sub(r'[^a-zA-Z]','',results[i][1])) == maxlength:
     print (str(results[i]) + " " + str(getpoints(len(re.sub(r'[^a-zA-Z]','',results[i][1])))) + " points")
