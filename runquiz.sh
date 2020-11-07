@@ -25,6 +25,7 @@ echo 6. U.S. political party _any, and including the word 'party'_ → "Star War
 echo ""
 
 echo 7. Politician who played college sports → Professional sports team _city and mascot, or just mascot_
+./findevmatches.py -s sources/quiz07/spotspoliticians.txt -d sources/quiz07/professionalsports.txt
 echo ""
 
 echo 8. Person who served as Secretary of the Treasury → World currency _current or past_
@@ -32,6 +33,8 @@ echo 8. Person who served as Secretary of the Treasury → World currency _curre
 echo ""
 
 echo 9. Any living politician → Palindrome
+./findevmatches.py -s sources/quiz09/longnamesalive.txt -d sources/quiz09/palindromes.txt
 echo ""
 
 echo 10. Any dead politician → Shakespeare character
+./findevmatches.py -s sources/quiz10/legislators-historical.txt -d sources/quiz10/shakespeare.txt

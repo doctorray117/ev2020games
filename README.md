@@ -21,6 +21,8 @@ Create a sourcefile and a dictionaryfile that contain all the words or phrases t
 
 ./findevmatches.py -s source/quiz01/legislatures-current.txt -d source/quiz01/oscars.txt
 
+All of the existing sources are run in the "runquiz.sh" file
+
 ## sources gathered so far:
 
 1. Current member of Congress → Academy Award-winning film
@@ -58,6 +60,10 @@ https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
 
 7. Politician who played college sports → Professional sports team (city and mascot, or just mascot)
 
+https://en.wikipedia.org/wiki/List_of_sportsperson-politicians
+https://en.wikipedia.org/wiki/List_of_American_sportsperson-politicians
+https://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada
+
 8. Person who served as Secretary of the Treasury → World currency (current or past)
 
 https://home.treasury.gov/about/history/prior-secretaries -- site was down on election day... isitdns.com
@@ -65,9 +71,8 @@ https://en.wikipedia.org/wiki/List_of_currencies
 
 9. Any living politician → Palindrome
 
-There's a lot of politicians out there, so this should be filled out more.
-
 https://github.com/unitedstates/congress-legislators -- current legislators
+https://www.pulselive.co.ke/bi/politics/these-politicians-have-the-longest-names-you-have-ever-heard-of/r15l158
 https://en.wiktionary.org/wiki/Appendix:English_palindromes
 
 10. Any dead politician → Shakespeare character
