@@ -27,55 +27,55 @@ All of the existing sources are run in the "runquiz.sh" file
 
 1. Current member of Congress → Academy Award-winning film
 
-https://github.com/unitedstates/congress-legislators
-https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
+* https://github.com/unitedstates/congress-legislators
+* https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
 
 2. Political slogan used by any U.S. candidate → Periodic table element
 
-https://en.wikipedia.org/wiki/List_of_U.S._presidential_campaign_slogans
-https://gist.githubusercontent.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee/raw/1d92663004489a5b6926e944c1b3d9ec5c40900e/Periodic%2520Table%2520of%2520Elements.csv
+* https://en.wikipedia.org/wiki/List_of_U.S._presidential_campaign_slogans
+* https://gist.githubusercontent.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee/raw/1d92663004489a5b6926e944c1b3d9ec5c40900e/Periodic%2520Table%2520of%2520Elements.csv
 
 3. Democratic nominee for president (winner or loser) → Beatles song title
 
-http://beatlesbible.com/songs/
-https://en.wikipedia.org/wiki/List_of_United_States_Democratic_Party_presidential_tickets
+* http://beatlesbible.com/songs/
+* https://en.wikipedia.org/wiki/List_of_United_States_Democratic_Party_presidential_tickets
 
 4. Republican nominee for president (winner or loser) → Religious figure (living or dead, any religion)
 
-https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
-https://www.wikidata.org/wiki/Wikidata:Lists/List_of_biblical_characters
-https://en.wikipedia.org/wiki/List_of_Catholic_saints
-https://en.wikipedia.org/wiki/List_of_founders_of_religious_traditions
+* https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+* https://www.wikidata.org/wiki/Wikidata:Lists/List_of_biblical_characters
+* https://en.wikipedia.org/wiki/List_of_Catholic_saints
+* https://en.wikipedia.org/wiki/List_of_founders_of_religious_traditions
 
 5. President who died in office → Disease
 
-https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
-https://en.wikipedia.org/wiki/Lists_of_diseases
+* https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_who_died_in_office
+* https://en.wikipedia.org/wiki/Lists_of_diseases
 
 6. U.S. political party (any, and including the word 'party') → "Star Wars" planet, character, or race
 
-https://en.wikipedia.org/wiki/List_of_political_parties_in_the_United_States
-https://starwars.fandom.com/wiki/List_of_planets
-https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
+* https://en.wikipedia.org/wiki/List_of_political_parties_in_the_United_States
+* https://starwars.fandom.com/wiki/List_of_planets
+* https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
 
 7. Politician who played college sports → Professional sports team (city and mascot, or just mascot)
 
-https://en.wikipedia.org/wiki/List_of_sportsperson-politicians
-https://en.wikipedia.org/wiki/List_of_American_sportsperson-politicians
-https://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada
+* https://en.wikipedia.org/wiki/List_of_sportsperson-politicians
+* https://en.wikipedia.org/wiki/List_of_American_sportsperson-politicians
+* https://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada
 
 8. Person who served as Secretary of the Treasury → World currency (current or past)
 
-https://home.treasury.gov/about/history/prior-secretaries -- site was down on election day... isitdns.com
-https://en.wikipedia.org/wiki/List_of_currencies
+* https://home.treasury.gov/about/history/prior-secretaries -- site was down on election day... isitdns.com
+* https://en.wikipedia.org/wiki/List_of_currencies
 
 9. Any living politician → Palindrome
 
-https://github.com/unitedstates/congress-legislators -- current legislators
-https://www.pulselive.co.ke/bi/politics/these-politicians-have-the-longest-names-you-have-ever-heard-of/r15l158
-https://en.wiktionary.org/wiki/Appendix:English_palindromes
+* https://github.com/unitedstates/congress-legislators -- current legislators
+* https://www.pulselive.co.ke/bi/politics/these-politicians-have-the-longest-names-you-have-ever-heard-of/r15l158
+* https://en.wiktionary.org/wiki/Appendix:English_palindromes
 
 10. Any dead politician → Shakespeare character
 
-https://github.com/unitedstates/congress-legislators -- historical legislators
-https://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php
+* https://github.com/unitedstates/congress-legislators -- historical legislators
+* https://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php
